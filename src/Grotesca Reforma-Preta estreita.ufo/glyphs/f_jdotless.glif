@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="f_jdotless" format="1">
+  <advance width="496"/>
+  <outline>
+    <contour>
+      <point x="62" y="0" type="line"/>
+      <point x="212" y="0" type="line"/>
+      <point x="212" y="682" type="line" smooth="yes"/>
+      <point x="212" y="701"/>
+      <point x="221" y="710"/>
+      <point x="240" y="710" type="curve" smooth="yes"/>
+      <point x="248" y="710"/>
+      <point x="256" y="709"/>
+      <point x="262" y="708" type="curve"/>
+      <point x="262" y="820" type="line"/>
+      <point x="233" y="823"/>
+      <point x="208" y="825"/>
+      <point x="184" y="825" type="curve" smooth="yes"/>
+      <point x="101" y="825"/>
+      <point x="62" y="786"/>
+      <point x="62" y="702" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="12" y="480" type="line"/>
+      <point x="314" y="480" type="line"/>
+      <point x="314" y="-42" type="line" smooth="yes"/>
+      <point x="314" y="-61"/>
+      <point x="305" y="-70"/>
+      <point x="286" y="-70" type="curve" smooth="yes"/>
+      <point x="278" y="-70"/>
+      <point x="270" y="-69"/>
+      <point x="264" y="-68" type="curve"/>
+      <point x="264" y="-180" type="line"/>
+      <point x="295" y="-183"/>
+      <point x="320" y="-185"/>
+      <point x="342" y="-185" type="curve" smooth="yes"/>
+      <point x="425" y="-185"/>
+      <point x="464" y="-144"/>
+      <point x="464" y="-57" type="curve" smooth="yes"/>
+      <point x="464" y="590" type="line"/>
+      <point x="12" y="590" type="line"/>
+    </contour>
+    <contour>
+      <point x="389" y="-180" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="389" y="590" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-10-07 20:52:21 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>f</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>jdotless</string>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

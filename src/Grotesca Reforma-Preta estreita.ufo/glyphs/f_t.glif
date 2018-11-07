@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="f_t" format="1">
+  <advance width="524"/>
+  <outline>
+    <contour>
+      <point x="62" y="0" type="line"/>
+      <point x="212" y="0" type="line"/>
+      <point x="212" y="682" type="line" smooth="yes"/>
+      <point x="212" y="701"/>
+      <point x="221" y="710"/>
+      <point x="240" y="710" type="curve" smooth="yes"/>
+      <point x="248" y="710"/>
+      <point x="256" y="709"/>
+      <point x="262" y="708" type="curve"/>
+      <point x="262" y="820" type="line"/>
+      <point x="233" y="823"/>
+      <point x="208" y="825"/>
+      <point x="184" y="825" type="curve" smooth="yes"/>
+      <point x="101" y="825"/>
+      <point x="62" y="786"/>
+      <point x="62" y="702" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="302" y="123" type="line" smooth="yes"/>
+      <point x="302" y="39"/>
+      <point x="341" y="-5"/>
+      <point x="424" y="-5" type="curve" smooth="yes"/>
+      <point x="448" y="-5"/>
+      <point x="473" y="-3"/>
+      <point x="502" y="0" type="curve"/>
+      <point x="502" y="112" type="line"/>
+      <point x="496" y="111"/>
+      <point x="488" y="110"/>
+      <point x="480" y="110" type="curve" smooth="yes"/>
+      <point x="461" y="110"/>
+      <point x="452" y="119"/>
+      <point x="452" y="138" type="curve" smooth="yes"/>
+      <point x="452" y="740" type="line"/>
+      <point x="382" y="740" type="line"/>
+      <point x="302" y="670" type="line"/>
+    </contour>
+    <contour>
+      <point x="12" y="590" type="line"/>
+      <point x="12" y="480" type="line"/>
+      <point x="502" y="480" type="line"/>
+      <point x="502" y="590" type="line"/>
+    </contour>
+    <contour>
+      <point x="424" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="376" y="295" type="move" name="center"/>
+    </contour>
+    <contour>
+      <point x="376" y="590" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="505" y="820" type="move" name="topright"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-10-07 20:52:21 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>f</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>t</string>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

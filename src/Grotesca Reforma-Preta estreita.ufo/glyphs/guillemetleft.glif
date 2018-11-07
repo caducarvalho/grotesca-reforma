@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="guillemetleft" format="1">
+  <advance width="536"/>
+  <unicode hex="00AB"/>
+  <outline>
+    <component base="guilsinglleft" xOffset="200"/>
+    <component base="guilsinglleft"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-10-25 03:03:03 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>comma</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>comma</string>
+      <key>public.markColor</key>
+      <string>0.25,0.25,0.25,1</string>
+    </dict>
+  </lib>
+</glyph>

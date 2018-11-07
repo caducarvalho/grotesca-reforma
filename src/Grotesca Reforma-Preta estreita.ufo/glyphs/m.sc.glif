@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="m.sc" format="1">
+  <advance width="680"/>
+  <outline>
+    <contour>
+      <point x="648" y="0" type="line"/>
+      <point x="648" y="620" type="line"/>
+      <point x="406" y="620" type="line"/>
+      <point x="339" y="285" type="line"/>
+      <point x="335" y="203" type="line"/>
+      <point x="329" y="203" type="line"/>
+      <point x="325" y="285" type="line"/>
+      <point x="258" y="620" type="line"/>
+      <point x="30" y="620" type="line"/>
+      <point x="30" y="0" type="line"/>
+      <point x="175" y="0" type="line"/>
+      <point x="175" y="326" type="line"/>
+      <point x="170" y="480" type="line"/>
+      <point x="176" y="480" type="line"/>
+      <point x="190" y="326" type="line"/>
+      <point x="262" y="0" type="line"/>
+      <point x="397" y="0" type="line"/>
+      <point x="468" y="326" type="line"/>
+      <point x="482" y="480" type="line"/>
+      <point x="488" y="480" type="line"/>
+      <point x="483" y="326" type="line"/>
+      <point x="483" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-10-07 21:23:27 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>i</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>i</string>
+      <key>public.markColor</key>
+      <string>0.98,0.36,0.67,1</string>
+    </dict>
+  </lib>
+</glyph>

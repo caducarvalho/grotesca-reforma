@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="w" format="1">
+  <advance width="629"/>
+  <unicode hex="0077"/>
+  <outline>
+    <contour>
+      <point x="13" y="590" type="line"/>
+      <point x="107" y="0" type="line"/>
+      <point x="273" y="0" type="line"/>
+      <point x="308" y="258" type="line"/>
+      <point x="313" y="470" type="line"/>
+      <point x="319" y="470" type="line"/>
+      <point x="324" y="258" type="line"/>
+      <point x="361" y="0" type="line"/>
+      <point x="525" y="0" type="line"/>
+      <point x="619" y="590" type="line"/>
+      <point x="464" y="590" type="line"/>
+      <point x="444" y="284" type="line"/>
+      <point x="439" y="100" type="line"/>
+      <point x="433" y="100" type="line"/>
+      <point x="428" y="284" type="line"/>
+      <point x="390" y="590" type="line"/>
+      <point x="252" y="590" type="line"/>
+      <point x="215" y="284" type="line"/>
+      <point x="210" y="100" type="line"/>
+      <point x="204" y="100" type="line"/>
+      <point x="199" y="284" type="line"/>
+      <point x="178" y="590" type="line"/>
+    </contour>
+    <contour>
+      <point x="313" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="313" y="590" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-10-07 20:52:21 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>v</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>v</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

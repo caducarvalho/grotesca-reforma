@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="K" format="1">
+  <advance width="510"/>
+  <unicode hex="004B"/>
+  <outline>
+    <contour>
+      <point x="43" y="0" type="line"/>
+      <point x="208" y="0" type="line"/>
+      <point x="208" y="305" type="line"/>
+      <point x="231" y="384" type="line"/>
+      <point x="237" y="384" type="line"/>
+      <point x="324" y="0" type="line"/>
+      <point x="495" y="0" type="line"/>
+      <point x="364" y="502" type="line"/>
+      <point x="490" y="800" type="line"/>
+      <point x="323" y="800" type="line"/>
+      <point x="227" y="549" type="line"/>
+      <point x="206" y="459" type="line"/>
+      <point x="200" y="459" type="line"/>
+      <point x="208" y="548" type="line"/>
+      <point x="208" y="800" type="line"/>
+      <point x="43" y="800" type="line"/>
+    </contour>
+    <contour>
+      <point x="287" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="287" y="800" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-10-07 20:52:21 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>H</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>A</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

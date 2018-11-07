@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dieresiscomb.alt" format="1">
+  <advance width="348"/>
+  <outline>
+    <contour>
+      <point x="86" y="780" type="line"/>
+      <point x="86" y="640" type="line"/>
+      <point x="181" y="640" type="line"/>
+      <point x="181" y="780" type="line"/>
+    </contour>
+    <contour>
+      <point x="221" y="780" type="line"/>
+      <point x="221" y="640" type="line"/>
+      <point x="316" y="640" type="line"/>
+      <point x="316" y="780" type="line"/>
+    </contour>
+    <contour>
+      <point x="174" y="590" type="move" name="_top"/>
+    </contour>
+    <contour>
+      <point x="174" y="780" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-10-07 20:52:21 +0000</string>
+    </dict>
+  </lib>
+</glyph>

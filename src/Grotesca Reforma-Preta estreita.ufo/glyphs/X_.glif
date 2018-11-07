@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="X" format="1">
+  <advance width="493"/>
+  <unicode hex="0058"/>
+  <outline>
+    <contour>
+      <point x="17" y="0" type="line"/>
+      <point x="177" y="0" type="line"/>
+      <point x="232" y="237" type="line"/>
+      <point x="238" y="357" type="line"/>
+      <point x="244" y="357" type="line"/>
+      <point x="250" y="237" type="line"/>
+      <point x="308" y="0" type="line"/>
+      <point x="478" y="0" type="line"/>
+      <point x="354" y="405" type="line"/>
+      <point x="456" y="800" type="line"/>
+      <point x="296" y="800" type="line"/>
+      <point x="257" y="573" type="line"/>
+      <point x="251" y="453" type="line"/>
+      <point x="245" y="453" type="line"/>
+      <point x="239" y="573" type="line"/>
+      <point x="191" y="800" type="line"/>
+      <point x="21" y="800" type="line"/>
+      <point x="131" y="405" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-10-07 20:52:21 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>A</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>A</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

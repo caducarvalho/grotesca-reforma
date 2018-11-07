@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="l.sc" format="1">
+  <advance width="380"/>
+  <outline>
+    <contour>
+      <point x="365" y="0" type="line"/>
+      <point x="365" y="140" type="line"/>
+      <point x="195" y="140" type="line"/>
+      <point x="195" y="620" type="line"/>
+      <point x="30" y="620" type="line"/>
+      <point x="30" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="185" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="185" y="350" type="move" name="center"/>
+    </contour>
+    <contour>
+      <point x="125" y="620" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="225" y="620" type="move" name="topright"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-10-07 20:52:21 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>i</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>L</string>
+      <key>public.markColor</key>
+      <string>0.98,0.36,0.67,1</string>
+    </dict>
+  </lib>
+</glyph>
