@@ -1,33 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="one" format="1">
-  <advance width="346"/>
-  <unicode hex="0031"/>
-  <outline>
-    <contour>
-      <point x="17" y="545" type="curve"/>
-      <point x="87" y="474" type="line"/>
-      <point x="114" y="496"/>
-      <point x="133" y="523"/>
-      <point x="139" y="548" type="curve"/>
-      <point x="143" y="548" type="line"/>
-      <point x="143" y="0" type="line"/>
-      <point x="303" y="0" type="line"/>
-      <point x="303" y="780" type="line"/>
-      <point x="168" y="780" type="line"/>
-      <point x="136" y="692"/>
-      <point x="88" y="617"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2018-10-07 20:52:21 +0000</string>
-      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>A</string>
-      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-      <string>H</string>
-      <key>public.markColor</key>
-      <string>0.99,0.62,0.11,1</string>
-    </dict>
-  </lib>
+<glyph name="one" format="2">
+	<advance width="346"/>
+	<unicode hex="0031"/>
+	<outline>
+		<contour>
+			<point x="17" y="545" type="curve"/>
+			<point x="87" y="474" type="line"/>
+			<point x="114" y="496"/>
+			<point x="133" y="523"/>
+			<point x="139" y="548" type="curve"/>
+			<point x="143" y="548" type="line"/>
+			<point x="143" y="0" type="line"/>
+			<point x="303" y="0" type="line"/>
+			<point x="303" y="780" type="line"/>
+			<point x="168" y="780" type="line"/>
+			<point x="136" y="692"/>
+			<point x="88" y="617"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>A</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>H</string>
+			<key>public.markColor</key>
+			<string>0.99,0.62,0.11,1</string>
+		</dict>
+	</lib>
 </glyph>

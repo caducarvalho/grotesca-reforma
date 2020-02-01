@@ -1,17 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Oacute" format="1">
-  <advance width="462"/>
-  <unicode hex="00D3"/>
-  <outline>
-    <component base="O"/>
-    <component base="acutecomb" xOffset="133" yOffset="210"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2018-10-07 20:52:21 +0000</string>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
-  </lib>
+<glyph name="Oacute" format="2">
+	<advance width="462"/>
+	<unicode hex="00D3"/>
+	<outline>
+		<component base="O"/>
+		<component base="acutecomb" xOffset="133" yOffset="210"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.67,0.95,0.38,1</string>
+		</dict>
+	</lib>
 </glyph>

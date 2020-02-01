@@ -1,27 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="one.ss07" format="1">
-  <advance width="246"/>
-  <outline>
-    <contour>
-      <point x="118" y="780" type="line"/>
-      <point x="118" y="720"/>
-      <point x="94" y="674"/>
-      <point x="43" y="635" type="curve"/>
-      <point x="43" y="0" type="line"/>
-      <point x="203" y="0" type="line"/>
-      <point x="203" y="780" type="line"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2018-10-07 20:52:21 +0000</string>
-      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>H</string>
-      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-      <string>H</string>
-      <key>public.markColor</key>
-      <string>0.85,0.26,0.06,1</string>
-    </dict>
-  </lib>
+<glyph name="one.ss07" format="2">
+	<advance width="246"/>
+	<outline>
+		<contour>
+			<point x="118" y="780" type="line"/>
+			<point x="118" y="720"/>
+			<point x="94" y="674"/>
+			<point x="43" y="635" type="curve"/>
+			<point x="43" y="0" type="line"/>
+			<point x="203" y="0" type="line"/>
+			<point x="203" y="780" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>H</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>H</string>
+			<key>public.markColor</key>
+			<string>0.85,0.26,0.06,1</string>
+		</dict>
+	</lib>
 </glyph>

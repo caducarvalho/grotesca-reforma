@@ -1,31 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="brokenbar" format="1">
-  <advance width="186"/>
-  <unicode hex="00A6"/>
-  <outline>
-    <contour>
-      <point x="143" y="270" type="line"/>
-      <point x="43" y="270" type="line"/>
-      <point x="43" y="-180" type="line"/>
-      <point x="143" y="-180" type="line"/>
-    </contour>
-    <contour>
-      <point x="43" y="370" type="line"/>
-      <point x="143" y="370" type="line"/>
-      <point x="143" y="820" type="line"/>
-      <point x="43" y="820" type="line"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2018-10-07 20:52:21 +0000</string>
-      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>H</string>
-      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-      <string>H</string>
-      <key>public.markColor</key>
-      <string>0.25,0.25,0.25,1</string>
-    </dict>
-  </lib>
+<glyph name="brokenbar" format="2">
+	<advance width="186"/>
+	<unicode hex="00A6"/>
+	<outline>
+		<contour>
+			<point x="143" y="270" type="line"/>
+			<point x="43" y="270" type="line"/>
+			<point x="43" y="-180" type="line"/>
+			<point x="143" y="-180" type="line"/>
+		</contour>
+		<contour>
+			<point x="43" y="370" type="line"/>
+			<point x="143" y="370" type="line"/>
+			<point x="143" y="820" type="line"/>
+			<point x="43" y="820" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>H</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>H</string>
+			<key>public.markColor</key>
+			<string>0.25,0.25,0.25,1</string>
+		</dict>
+	</lib>
 </glyph>

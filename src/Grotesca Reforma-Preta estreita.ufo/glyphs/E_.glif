@@ -1,43 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="E" format="1">
-  <advance width="410"/>
-  <unicode hex="0045"/>
-  <outline>
-    <contour>
-      <point x="43" y="0" type="line"/>
-      <point x="388" y="0" type="line"/>
-      <point x="388" y="140" type="line"/>
-      <point x="208" y="140" type="line"/>
-      <point x="208" y="370" type="line"/>
-      <point x="338" y="370" type="line"/>
-      <point x="338" y="510" type="line"/>
-      <point x="208" y="510" type="line"/>
-      <point x="208" y="660" type="line"/>
-      <point x="368" y="660" type="line"/>
-      <point x="368" y="800" type="line"/>
-      <point x="43" y="800" type="line"/>
-    </contour>
-    <contour>
-      <point x="216" y="0" type="move" name="bottom"/>
-    </contour>
-    <contour>
-      <point x="388" y="10" type="move" name="ogonek"/>
-    </contour>
-    <contour>
-      <point x="216" y="800" type="move" name="top"/>
-    </contour>
-    <contour>
-      <point x="28" y="800" type="move" name="topleft"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2018-10-07 20:52:21 +0000</string>
-      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>H</string>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
-  </lib>
+<glyph name="E" format="2">
+	<advance width="410"/>
+	<unicode hex="0045"/>
+	<anchor x="388" y="10" name="ogonek"/>
+	<anchor x="216" y="800" name="top"/>
+	<anchor x="28" y="800" name="topleft"/>
+	<anchor x="216" y="0" name="bottom"/>
+	<outline>
+		<contour>
+			<point x="43" y="0" type="line"/>
+			<point x="388" y="0" type="line"/>
+			<point x="388" y="140" type="line"/>
+			<point x="208" y="140" type="line"/>
+			<point x="208" y="370" type="line"/>
+			<point x="338" y="370" type="line"/>
+			<point x="338" y="510" type="line"/>
+			<point x="208" y="510" type="line"/>
+			<point x="208" y="660" type="line"/>
+			<point x="368" y="660" type="line"/>
+			<point x="368" y="800" type="line"/>
+			<point x="43" y="800" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>H</string>
+			<key>public.markColor</key>
+			<string>0.67,0.95,0.38,1</string>
+		</dict>
+	</lib>
 </glyph>

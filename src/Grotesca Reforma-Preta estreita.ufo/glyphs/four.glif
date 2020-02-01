@@ -1,37 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="four" format="1">
-  <advance width="434"/>
-  <unicode hex="0034"/>
-  <outline>
-    <contour>
-      <point x="412" y="140" type="line"/>
-      <point x="412" y="270" type="line"/>
-      <point x="112" y="270" type="line"/>
-      <point x="112" y="274" type="line"/>
-      <point x="144" y="335"/>
-      <point x="172" y="413"/>
-      <point x="188" y="485" type="curve"/>
-      <point x="192" y="485" type="line"/>
-      <point x="192" y="0" type="line"/>
-      <point x="352" y="0" type="line"/>
-      <point x="352" y="780" type="line"/>
-      <point x="204" y="780" type="line"/>
-      <point x="156" y="614"/>
-      <point x="87" y="425"/>
-      <point x="17" y="270" type="curve"/>
-      <point x="17" y="140" type="line"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2018-10-07 20:52:21 +0000</string>
-      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>A</string>
-      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-      <string>E</string>
-      <key>public.markColor</key>
-      <string>0.99,0.62,0.11,1</string>
-    </dict>
-  </lib>
+<glyph name="four" format="2">
+	<advance width="434"/>
+	<unicode hex="0034"/>
+	<outline>
+		<contour>
+			<point x="412" y="140" type="line"/>
+			<point x="412" y="270" type="line"/>
+			<point x="112" y="270" type="line"/>
+			<point x="112" y="274" type="line"/>
+			<point x="144" y="335"/>
+			<point x="172" y="413"/>
+			<point x="188" y="485" type="curve"/>
+			<point x="192" y="485" type="line"/>
+			<point x="192" y="0" type="line"/>
+			<point x="352" y="0" type="line"/>
+			<point x="352" y="780" type="line"/>
+			<point x="204" y="780" type="line"/>
+			<point x="156" y="614"/>
+			<point x="87" y="425"/>
+			<point x="17" y="270" type="curve"/>
+			<point x="17" y="140" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>A</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>E</string>
+			<key>public.markColor</key>
+			<string>0.99,0.62,0.11,1</string>
+		</dict>
+	</lib>
 </glyph>

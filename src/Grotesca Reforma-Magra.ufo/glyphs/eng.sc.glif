@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="eng.sc" format="2">
+	<advance width="765"/>
+	<outline>
+		<contour>
+			<point x="659" y="36" type="line"/>
+			<point x="606" y="36" type="line"/>
+			<point x="606" y="-2" type="line" smooth="yes"/>
+			<point x="606" y="-89"/>
+			<point x="558" y="-140"/>
+			<point x="478" y="-140" type="curve" smooth="yes"/>
+			<point x="453" y="-140"/>
+			<point x="422" y="-136"/>
+			<point x="396" y="-130" type="curve"/>
+			<point x="396" y="-180" type="line"/>
+			<point x="420" y="-186"/>
+			<point x="451" y="-190"/>
+			<point x="478" y="-190" type="curve" smooth="yes"/>
+			<point x="592" y="-190"/>
+			<point x="659" y="-122"/>
+			<point x="659" y="-7" type="curve" smooth="yes"/>
+		</contour>
+		<component base="n.sc" xOffset="41"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>H</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>H</string>
+			<key>public.markColor</key>
+			<string>0.98,0.36,0.67,1</string>
+		</dict>
+	</lib>
+</glyph>

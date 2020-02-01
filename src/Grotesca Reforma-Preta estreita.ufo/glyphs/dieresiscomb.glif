@@ -1,31 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="dieresiscomb" format="1">
-  <advance width="348"/>
-  <unicode hex="0308"/>
-  <outline>
-    <contour>
-      <point x="34" y="780" type="line"/>
-      <point x="34" y="640" type="line"/>
-      <point x="154" y="640" type="line"/>
-      <point x="154" y="780" type="line"/>
-    </contour>
-    <contour>
-      <point x="194" y="780" type="line"/>
-      <point x="194" y="640" type="line"/>
-      <point x="314" y="640" type="line"/>
-      <point x="314" y="780" type="line"/>
-    </contour>
-    <contour>
-      <point x="174" y="590" type="move" name="_top"/>
-    </contour>
-    <contour>
-      <point x="174" y="780" type="move" name="top"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2018-10-25 02:22:26 +0000</string>
-    </dict>
-  </lib>
+<glyph name="dieresiscomb" format="2">
+	<advance width="348"/>
+	<unicode hex="0308"/>
+	<anchor x="174" y="780" name="top"/>
+	<anchor x="174" y="590" name="_top"/>
+	<outline>
+		<contour>
+			<point x="34" y="780" type="line"/>
+			<point x="34" y="640" type="line"/>
+			<point x="154" y="640" type="line"/>
+			<point x="154" y="780" type="line"/>
+		</contour>
+		<contour>
+			<point x="194" y="780" type="line"/>
+			<point x="194" y="640" type="line"/>
+			<point x="314" y="640" type="line"/>
+			<point x="314" y="780" type="line"/>
+		</contour>
+	</outline>
 </glyph>

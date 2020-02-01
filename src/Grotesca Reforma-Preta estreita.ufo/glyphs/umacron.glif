@@ -1,17 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="umacron" format="1">
-  <advance width="408"/>
-  <unicode hex="016B"/>
-  <outline>
-    <component base="u"/>
-    <component base="macroncomb" xOffset="36"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2018-10-07 20:52:21 +0000</string>
-      <key>public.markColor</key>
-      <string>0,0.67,0.91,1</string>
-    </dict>
-  </lib>
+<glyph name="umacron" format="2">
+	<advance width="408"/>
+	<unicode hex="016B"/>
+	<outline>
+		<component base="u"/>
+		<component base="macroncomb" xOffset="36"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.06,0.6,0.98,1</string>
+		</dict>
+	</lib>
 </glyph>

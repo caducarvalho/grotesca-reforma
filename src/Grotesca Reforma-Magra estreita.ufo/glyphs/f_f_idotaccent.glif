@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="f_f_idotaccent" format="2">
+	<advance width="451"/>
+	<outline>
+		<component base="f_f_idotless"/>
+		<component base="dotaccentcomb" xOffset="330"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>f</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>idotaccent</string>
+			<key>public.markColor</key>
+			<string>0,0.2,0.88,1</string>
+		</dict>
+	</lib>
+</glyph>

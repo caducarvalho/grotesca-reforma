@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="x.sc" format="2">
+	<advance width="638"/>
+	<outline>
+		<contour>
+			<point x="50" y="0" type="line"/>
+			<point x="115" y="0" type="line"/>
+			<point x="276" y="231" type="line"/>
+			<point x="310" y="292" type="line"/>
+			<point x="314" y="292" type="line"/>
+			<point x="348" y="232" type="line"/>
+			<point x="511" y="0" type="line"/>
+			<point x="578" y="0" type="line"/>
+			<point x="350" y="322" type="line"/>
+			<point x="563" y="620" type="line"/>
+			<point x="498" y="620" type="line"/>
+			<point x="345" y="406" type="line"/>
+			<point x="316" y="346" type="line"/>
+			<point x="312" y="346" type="line"/>
+			<point x="281" y="406" type="line"/>
+			<point x="129" y="620" type="line"/>
+			<point x="61" y="620" type="line"/>
+			<point x="276" y="320" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>x</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>x</string>
+			<key>public.markColor</key>
+			<string>0.98,0.36,0.67,1</string>
+		</dict>
+	</lib>
+</glyph>

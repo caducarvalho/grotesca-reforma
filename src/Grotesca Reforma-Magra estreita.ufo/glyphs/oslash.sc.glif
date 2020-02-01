@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="oslash.sc" format="2">
+	<advance width="254"/>
+	<outline>
+		<contour>
+			<point x="250" y="350" type="line"/>
+			<point x="250" y="400" type="line"/>
+			<point x="8" y="282" type="line"/>
+			<point x="8" y="232" type="line"/>
+		</contour>
+		<component base="o.sc" xOffset="16"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>Oslash</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>Oslash</string>
+			<key>public.markColor</key>
+			<string>0.98,0.36,0.67,1</string>
+		</dict>
+	</lib>
+</glyph>

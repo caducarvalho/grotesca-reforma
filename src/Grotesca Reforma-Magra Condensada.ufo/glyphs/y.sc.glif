@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="y.sc" format="2">
+	<advance width="445"/>
+	<anchor x="220" y="620" name="top"/>
+	<anchor x="220" y="0" name="bottom"/>
+	<anchor x="19" y="620" name="topleft"/>
+	<outline>
+		<contour>
+			<point x="33" y="620" type="line"/>
+			<point x="192" y="191" type="line"/>
+			<point x="192" y="0" type="line"/>
+			<point x="247" y="0" type="line"/>
+			<point x="247" y="191" type="line"/>
+			<point x="406" y="620" type="line"/>
+			<point x="348" y="620" type="line"/>
+			<point x="242" y="311" type="line"/>
+			<point x="223" y="243" type="line"/>
+			<point x="218" y="243" type="line"/>
+			<point x="200" y="311" type="line"/>
+			<point x="94" y="620" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>v</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>v</string>
+			<key>public.markColor</key>
+			<string>0.98,0.36,0.67,1</string>
+		</dict>
+	</lib>
+</glyph>

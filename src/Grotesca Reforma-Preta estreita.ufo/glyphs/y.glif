@@ -1,38 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="y" format="1">
-  <advance width="423"/>
-  <unicode hex="0079"/>
-  <outline>
-    <contour>
-      <point x="13" y="590" type="line"/>
-      <point x="137" y="0" type="line"/>
-      <point x="96" y="-180" type="line"/>
-      <point x="255" y="-180" type="line"/>
-      <point x="413" y="590" type="line"/>
-      <point x="258" y="590" type="line"/>
-      <point x="227" y="217" type="line"/>
-      <point x="221" y="100" type="line"/>
-      <point x="215" y="100" type="line"/>
-      <point x="209" y="217" type="line"/>
-      <point x="178" y="590" type="line"/>
-    </contour>
-    <contour>
-      <point x="213" y="0" type="move" name="bottom"/>
-    </contour>
-    <contour>
-      <point x="217" y="590" type="move" name="top"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2018-10-07 20:52:21 +0000</string>
-      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>v</string>
-      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-      <string>v</string>
-      <key>public.markColor</key>
-      <string>0,0.67,0.91,1</string>
-    </dict>
-  </lib>
+<glyph name="y" format="2">
+	<advance width="423"/>
+	<unicode hex="0079"/>
+	<guideline x="-72" y="231" angle="0"/>
+	<anchor x="217" y="590" name="top"/>
+	<anchor x="213" y="0" name="bottom"/>
+	<outline>
+		<contour>
+			<point x="13" y="590" type="line"/>
+			<point x="137" y="0" type="line"/>
+			<point x="96" y="-180" type="line"/>
+			<point x="255" y="-180" type="line"/>
+			<point x="413" y="590" type="line"/>
+			<point x="258" y="590" type="line"/>
+			<point x="227" y="217" type="line"/>
+			<point x="221" y="100" type="line"/>
+			<point x="215" y="100" type="line"/>
+			<point x="209" y="217" type="line"/>
+			<point x="178" y="590" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>v</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>v</string>
+			<key>public.markColor</key>
+			<string>0.06,0.6,0.98,1</string>
+		</dict>
+	</lib>
 </glyph>

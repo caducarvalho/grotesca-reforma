@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="f_tbar" format="2">
+	<advance width="915"/>
+	<outline>
+		<contour>
+			<point x="432" y="270" type="line"/>
+			<point x="792" y="270" type="line"/>
+			<point x="832" y="370" type="line"/>
+			<point x="472" y="370" type="line"/>
+		</contour>
+		<component base="f_t"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>f</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>tbar</string>
+			<key>public.markColor</key>
+			<string>0,0.2,0.88,1</string>
+		</dict>
+	</lib>
+</glyph>

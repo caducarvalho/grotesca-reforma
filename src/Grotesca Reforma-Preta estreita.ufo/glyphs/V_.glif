@@ -1,31 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="V" format="1">
-  <advance width="460"/>
-  <unicode hex="0056"/>
-  <outline>
-    <contour>
-      <point x="17" y="800" type="line"/>
-      <point x="118" y="0" type="line"/>
-      <point x="348" y="0" type="line"/>
-      <point x="445" y="800" type="line"/>
-      <point x="280" y="800" type="line"/>
-      <point x="246" y="290" type="line"/>
-      <point x="240" y="110" type="line"/>
-      <point x="234" y="110" type="line"/>
-      <point x="228" y="290" type="line"/>
-      <point x="192" y="800" type="line"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2018-10-07 20:52:21 +0000</string>
-      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>A</string>
-      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-      <string>A</string>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
-  </lib>
+<glyph name="V" format="2">
+	<advance width="460"/>
+	<unicode hex="0056"/>
+	<outline>
+		<contour>
+			<point x="17" y="800" type="line"/>
+			<point x="118" y="0" type="line"/>
+			<point x="348" y="0" type="line"/>
+			<point x="445" y="800" type="line"/>
+			<point x="280" y="800" type="line"/>
+			<point x="246" y="290" type="line"/>
+			<point x="240" y="110" type="line"/>
+			<point x="234" y="110" type="line"/>
+			<point x="228" y="290" type="line"/>
+			<point x="192" y="800" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>A</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>A</string>
+			<key>public.markColor</key>
+			<string>0.67,0.95,0.38,1</string>
+		</dict>
+	</lib>
 </glyph>

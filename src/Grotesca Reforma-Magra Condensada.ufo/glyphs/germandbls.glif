@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="germandbls" format="2">
+	<advance width="428"/>
+	<unicode hex="00DF"/>
+	<outline>
+		<contour>
+			<point x="213" y="-11" type="curve" smooth="yes"/>
+			<point x="324" y="-11"/>
+			<point x="389" y="65"/>
+			<point x="389" y="194" type="curve" smooth="yes"/>
+			<point x="389" y="304" type="line" smooth="yes"/>
+			<point x="389" y="411"/>
+			<point x="343" y="478"/>
+			<point x="264" y="485" type="curve"/>
+			<point x="264" y="489" type="line"/>
+			<point x="324" y="491"/>
+			<point x="359" y="539"/>
+			<point x="359" y="619" type="curve" smooth="yes"/>
+			<point x="359" y="684" type="line" smooth="yes"/>
+			<point x="359" y="778"/>
+			<point x="304" y="833"/>
+			<point x="212" y="833" type="curve" smooth="yes"/>
+			<point x="110" y="833"/>
+			<point x="50" y="771"/>
+			<point x="50" y="665" type="curve" smooth="yes"/>
+			<point x="50" y="-60" type="line"/>
+			<point x="100" y="-60" type="line"/>
+			<point x="100" y="665" type="line" smooth="yes"/>
+			<point x="100" y="742"/>
+			<point x="141" y="788"/>
+			<point x="211" y="788" type="curve" smooth="yes"/>
+			<point x="272" y="788"/>
+			<point x="308" y="749"/>
+			<point x="308" y="682" type="curve" smooth="yes"/>
+			<point x="308" y="617" type="line" smooth="yes"/>
+			<point x="308" y="548"/>
+			<point x="273" y="508"/>
+			<point x="214" y="508" type="curve" smooth="yes"/>
+			<point x="184" y="508" type="line"/>
+			<point x="184" y="463" type="line"/>
+			<point x="210" y="463" type="line" smooth="yes"/>
+			<point x="290" y="463"/>
+			<point x="338" y="407"/>
+			<point x="338" y="312" type="curve" smooth="yes"/>
+			<point x="338" y="191" type="line" smooth="yes"/>
+			<point x="338" y="94"/>
+			<point x="291" y="37"/>
+			<point x="211" y="37" type="curve" smooth="yes"/>
+			<point x="190" y="37"/>
+			<point x="175" y="38"/>
+			<point x="169" y="40" type="curve"/>
+			<point x="169" y="-6" type="line"/>
+			<point x="182" y="-9"/>
+			<point x="198" y="-11"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>l</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>s</string>
+			<key>public.markColor</key>
+			<string>0.06,0.6,0.98,1</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,27 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="v" format="1">
-  <advance width="425"/>
-  <unicode hex="0076"/>
-  <outline>
-    <contour>
-      <point x="13" y="590" type="line"/>
-      <point x="137" y="0" type="line"/>
-      <point x="291" y="0" type="line"/>
-      <point x="415" y="590" type="line"/>
-      <point x="260" y="590" type="line"/>
-      <point x="226" y="220" type="line"/>
-      <point x="222" y="100" type="line"/>
-      <point x="216" y="100" type="line"/>
-      <point x="212" y="220" type="line"/>
-      <point x="178" y="590" type="line"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2018-10-25 02:39:30 +0000</string>
-      <key>public.markColor</key>
-      <string>0,0.67,0.91,1</string>
-    </dict>
-  </lib>
+<glyph name="v" format="2">
+	<advance width="425"/>
+	<unicode hex="0076"/>
+	<outline>
+		<contour>
+			<point x="13" y="590" type="line"/>
+			<point x="137" y="0" type="line"/>
+			<point x="291" y="0" type="line"/>
+			<point x="415" y="590" type="line"/>
+			<point x="260" y="590" type="line"/>
+			<point x="226" y="220" type="line"/>
+			<point x="222" y="100" type="line"/>
+			<point x="216" y="100" type="line"/>
+			<point x="212" y="220" type="line"/>
+			<point x="178" y="590" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.06,0.6,0.98,1</string>
+		</dict>
+	</lib>
 </glyph>

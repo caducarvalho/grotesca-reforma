@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="p.sc" format="2">
+	<advance width="647"/>
+	<outline>
+		<contour>
+			<point x="65" y="0" type="line"/>
+			<point x="250" y="0" type="line"/>
+			<point x="250" y="185" type="line"/>
+			<point x="346" y="185" type="line" smooth="yes"/>
+			<point x="505" y="185"/>
+			<point x="599" y="264"/>
+			<point x="599" y="397" type="curve" smooth="yes"/>
+			<point x="599" y="402" type="line" smooth="yes"/>
+			<point x="599" y="539"/>
+			<point x="505" y="620"/>
+			<point x="346" y="620" type="curve" smooth="yes"/>
+			<point x="65" y="620" type="line"/>
+		</contour>
+		<contour>
+			<point x="250" y="340" type="line"/>
+			<point x="250" y="465" type="line"/>
+			<point x="346" y="465" type="line" smooth="yes"/>
+			<point x="386" y="465"/>
+			<point x="409" y="441"/>
+			<point x="409" y="401" type="curve" smooth="yes"/>
+			<point x="409" y="397" type="line" smooth="yes"/>
+			<point x="409" y="361"/>
+			<point x="386" y="340"/>
+			<point x="346" y="340" type="curve" smooth="yes"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>i</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>P</string>
+			<key>public.markColor</key>
+			<string>0.98,0.36,0.67,1</string>
+		</dict>
+	</lib>
+</glyph>

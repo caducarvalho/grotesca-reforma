@@ -1,38 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="x.sc" format="1">
-  <advance width="461"/>
-  <outline>
-    <contour>
-      <point x="13" y="0" type="line"/>
-      <point x="168" y="0" type="line"/>
-      <point x="218" y="187" type="line"/>
-      <point x="225" y="279" type="line"/>
-      <point x="231" y="279" type="line"/>
-      <point x="238" y="187" type="line"/>
-      <point x="288" y="0" type="line"/>
-      <point x="451" y="0" type="line"/>
-      <point x="337" y="325" type="line"/>
-      <point x="428" y="620" type="line"/>
-      <point x="276" y="620" type="line"/>
-      <point x="243" y="463" type="line"/>
-      <point x="236" y="371" type="line"/>
-      <point x="230" y="371" type="line"/>
-      <point x="223" y="463" type="line"/>
-      <point x="185" y="620" type="line"/>
-      <point x="22" y="620" type="line"/>
-      <point x="119" y="325" type="line"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2018-10-07 20:52:21 +0000</string>
-      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>x</string>
-      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-      <string>x</string>
-      <key>public.markColor</key>
-      <string>0.98,0.36,0.67,1</string>
-    </dict>
-  </lib>
+<glyph name="x.sc" format="2">
+	<advance width="461"/>
+	<outline>
+		<contour>
+			<point x="13" y="0" type="line"/>
+			<point x="168" y="0" type="line"/>
+			<point x="218" y="187" type="line"/>
+			<point x="225" y="279" type="line"/>
+			<point x="231" y="279" type="line"/>
+			<point x="238" y="187" type="line"/>
+			<point x="288" y="0" type="line"/>
+			<point x="451" y="0" type="line"/>
+			<point x="337" y="325" type="line"/>
+			<point x="428" y="620" type="line"/>
+			<point x="276" y="620" type="line"/>
+			<point x="243" y="463" type="line"/>
+			<point x="236" y="371" type="line"/>
+			<point x="230" y="371" type="line"/>
+			<point x="223" y="463" type="line"/>
+			<point x="185" y="620" type="line"/>
+			<point x="22" y="620" type="line"/>
+			<point x="119" y="325" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>x</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>x</string>
+			<key>public.markColor</key>
+			<string>0.98,0.36,0.67,1</string>
+		</dict>
+	</lib>
 </glyph>

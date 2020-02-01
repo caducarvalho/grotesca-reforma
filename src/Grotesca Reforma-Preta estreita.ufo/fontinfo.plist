@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
 	<key>ascender</key>
@@ -16,8 +16,6 @@
 	<string>Cadu Carvalho</string>
 	<key>openTypeNameDesignerURL</key>
 	<string>caducarvalho.com.br</string>
-	<key>openTypeNamePreferredFamilyName</key>
-	<string>Grotesca Reforma</string>
 	<key>openTypeNamePreferredSubfamilyName</key>
 	<string>Preta estreita</string>
 	<key>openTypeOS2WeightClass</key>

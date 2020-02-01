@@ -1,21 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="quotedblright" format="1">
-  <advance width="466"/>
-  <unicode hex="201D"/>
-  <outline>
-    <component base="quoteright" xOffset="210"/>
-    <component base="quoteright"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2018-10-25 03:03:48 +0000</string>
-      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>comma</string>
-      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-      <string>comma</string>
-      <key>public.markColor</key>
-      <string>0.25,0.25,0.25,1</string>
-    </dict>
-  </lib>
+<glyph name="quotedblright" format="2">
+	<advance width="466"/>
+	<unicode hex="201D"/>
+	<outline>
+		<component base="quoteright" xOffset="210"/>
+		<component base="quoteright"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>comma</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>comma</string>
+			<key>public.markColor</key>
+			<string>0.25,0.25,0.25,1</string>
+		</dict>
+	</lib>
 </glyph>

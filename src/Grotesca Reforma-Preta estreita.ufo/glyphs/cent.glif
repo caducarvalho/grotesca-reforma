@@ -1,32 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="cent" format="1">
-  <advance width="400"/>
-  <unicode hex="00A2"/>
-  <outline>
-    <contour>
-      <point x="148" y="-80" type="line"/>
-      <point x="248" y="-80" type="line"/>
-      <point x="248" y="46" type="line"/>
-      <point x="148" y="46" type="line"/>
-    </contour>
-    <contour>
-      <point x="148" y="544" type="line"/>
-      <point x="248" y="544" type="line"/>
-      <point x="248" y="670" type="line"/>
-      <point x="148" y="670" type="line"/>
-    </contour>
-    <component base="c"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2018-10-07 20:53:44 +0000</string>
-      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>c</string>
-      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-      <string>c</string>
-      <key>public.markColor</key>
-      <string>0.25,0.25,0.25,1</string>
-    </dict>
-  </lib>
+<glyph name="cent" format="2">
+	<advance width="400"/>
+	<unicode hex="00A2"/>
+	<outline>
+		<contour>
+			<point x="148" y="-80" type="line"/>
+			<point x="248" y="-80" type="line"/>
+			<point x="248" y="46" type="line"/>
+			<point x="148" y="46" type="line"/>
+		</contour>
+		<contour>
+			<point x="148" y="544" type="line"/>
+			<point x="248" y="544" type="line"/>
+			<point x="248" y="670" type="line"/>
+			<point x="148" y="670" type="line"/>
+		</contour>
+		<component base="c"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>c</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>c</string>
+			<key>public.markColor</key>
+			<string>0.25,0.25,0.25,1</string>
+		</dict>
+	</lib>
 </glyph>

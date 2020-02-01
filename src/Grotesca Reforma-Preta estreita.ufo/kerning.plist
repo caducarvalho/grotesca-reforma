@@ -1,1109 +1,1109 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>@MMK_L_0</key>
+	<key>public.kern1.0</key>
 	<dict>
-		<key>@MMK_R_X</key>
+		<key>public.kern2.X</key>
 		<integer>-10</integer>
-		<key>@MMK_R_Y</key>
+		<key>public.kern2.Y</key>
 		<integer>-20</integer>
 	</dict>
-	<key>@MMK_L_4</key>
+	<key>public.kern1.4</key>
 	<dict>
-		<key>@MMK_R_1</key>
+		<key>public.kern2.1</key>
 		<integer>-40</integer>
-		<key>@MMK_R_A_sc</key>
+		<key>public.kern2.A_sc</key>
 		<integer>-10</integer>
-		<key>@MMK_R_V</key>
+		<key>public.kern2.V</key>
 		<integer>-10</integer>
-		<key>@MMK_R_V_sc</key>
+		<key>public.kern2.V_sc</key>
 		<integer>-30</integer>
-		<key>@MMK_R_X</key>
+		<key>public.kern2.X</key>
 		<integer>-10</integer>
-		<key>@MMK_R_Y</key>
+		<key>public.kern2.Y</key>
 		<integer>-20</integer>
 	</dict>
-	<key>@MMK_L_7</key>
+	<key>public.kern1.7</key>
 	<dict>
-		<key>@MMK_R_A</key>
+		<key>public.kern2.A</key>
 		<integer>-30</integer>
-		<key>@MMK_R_A_sc</key>
+		<key>public.kern2.A_sc</key>
 		<integer>-50</integer>
-		<key>@MMK_R_H_sc</key>
+		<key>public.kern2.H_sc</key>
 		<integer>-10</integer>
-		<key>@MMK_R_J</key>
+		<key>public.kern2.J</key>
 		<integer>-30</integer>
-		<key>@MMK_R_O_sc</key>
+		<key>public.kern2.O_sc</key>
 		<integer>-30</integer>
-		<key>@MMK_R_S_sc</key>
+		<key>public.kern2.S_sc</key>
 		<integer>-20</integer>
-		<key>@MMK_R_U_sc</key>
+		<key>public.kern2.U_sc</key>
 		<integer>-20</integer>
 	</dict>
-	<key>@MMK_L_A</key>
+	<key>public.kern1.A</key>
 	<dict>
-		<key>@MMK_R_1</key>
+		<key>public.kern2.1</key>
 		<integer>-60</integer>
-		<key>@MMK_R_3</key>
+		<key>public.kern2.3</key>
 		<integer>-20</integer>
-		<key>@MMK_R_4</key>
+		<key>public.kern2.4</key>
 		<integer>-10</integer>
-		<key>@MMK_R_7</key>
+		<key>public.kern2.7</key>
 		<integer>-30</integer>
-		<key>@MMK_R_J</key>
+		<key>public.kern2.J</key>
 		<integer>10</integer>
-		<key>@MMK_R_O</key>
+		<key>public.kern2.O</key>
 		<integer>-10</integer>
-		<key>@MMK_R_O_sc</key>
+		<key>public.kern2.O_sc</key>
 		<integer>-5</integer>
-		<key>@MMK_R_S</key>
+		<key>public.kern2.S</key>
 		<integer>-6</integer>
-		<key>@MMK_R_T</key>
+		<key>public.kern2.T</key>
 		<integer>-40</integer>
-		<key>@MMK_R_T_sc</key>
+		<key>public.kern2.T_sc</key>
 		<integer>-30</integer>
-		<key>@MMK_R_U</key>
+		<key>public.kern2.U</key>
 		<integer>-15</integer>
-		<key>@MMK_R_U_sc</key>
+		<key>public.kern2.U_sc</key>
 		<integer>-5</integer>
-		<key>@MMK_R_V</key>
+		<key>public.kern2.V</key>
 		<integer>-45</integer>
-		<key>@MMK_R_V_sc</key>
+		<key>public.kern2.V_sc</key>
 		<integer>-30</integer>
-		<key>@MMK_R_Y</key>
+		<key>public.kern2.Y</key>
 		<integer>-70</integer>
-		<key>@MMK_R_a</key>
+		<key>public.kern2.a</key>
 		<integer>-10</integer>
-		<key>@MMK_R_f</key>
+		<key>public.kern2.f</key>
 		<integer>-16</integer>
-		<key>@MMK_R_high</key>
+		<key>public.kern2.high</key>
 		<integer>-30</integer>
-		<key>@MMK_R_o</key>
+		<key>public.kern2.o</key>
 		<integer>-10</integer>
-		<key>@MMK_R_v</key>
+		<key>public.kern2.v</key>
 		<integer>-30</integer>
 	</dict>
-	<key>@MMK_L_A_sc</key>
+	<key>public.kern1.A_sc</key>
 	<dict>
-		<key>@MMK_R_1</key>
+		<key>public.kern2.1</key>
 		<integer>-50</integer>
-		<key>@MMK_R_4</key>
+		<key>public.kern2.4</key>
 		<integer>-10</integer>
-		<key>@MMK_R_7</key>
+		<key>public.kern2.7</key>
 		<integer>-40</integer>
-		<key>@MMK_R_O</key>
+		<key>public.kern2.O</key>
 		<integer>-10</integer>
-		<key>@MMK_R_O_sc</key>
+		<key>public.kern2.O_sc</key>
 		<integer>-10</integer>
-		<key>@MMK_R_S</key>
+		<key>public.kern2.S</key>
 		<integer>-10</integer>
-		<key>@MMK_R_T</key>
+		<key>public.kern2.T</key>
 		<integer>-60</integer>
-		<key>@MMK_R_T_sc</key>
+		<key>public.kern2.T_sc</key>
 		<integer>-40</integer>
-		<key>@MMK_R_U</key>
+		<key>public.kern2.U</key>
 		<integer>-20</integer>
-		<key>@MMK_R_U_sc</key>
+		<key>public.kern2.U_sc</key>
 		<integer>-10</integer>
-		<key>@MMK_R_V</key>
+		<key>public.kern2.V</key>
 		<integer>-40</integer>
-		<key>@MMK_R_V_sc</key>
+		<key>public.kern2.V_sc</key>
 		<integer>-35</integer>
-		<key>@MMK_R_Y</key>
+		<key>public.kern2.Y</key>
 		<integer>-80</integer>
 	</dict>
-	<key>@MMK_L_B</key>
+	<key>public.kern1.B</key>
 	<dict>
-		<key>@MMK_R_1</key>
+		<key>public.kern2.1</key>
 		<integer>-20</integer>
-		<key>@MMK_R_7</key>
+		<key>public.kern2.7</key>
 		<integer>-10</integer>
-		<key>@MMK_R_A</key>
+		<key>public.kern2.A</key>
 		<integer>-5</integer>
-		<key>@MMK_R_A_sc</key>
+		<key>public.kern2.A_sc</key>
 		<integer>-10</integer>
-		<key>@MMK_R_T</key>
+		<key>public.kern2.T</key>
 		<integer>-15</integer>
-		<key>@MMK_R_T_sc</key>
+		<key>public.kern2.T_sc</key>
 		<integer>-5</integer>
-		<key>@MMK_R_V</key>
+		<key>public.kern2.V</key>
 		<integer>-22</integer>
-		<key>@MMK_R_V_sc</key>
+		<key>public.kern2.V_sc</key>
 		<integer>-10</integer>
-		<key>@MMK_R_X</key>
+		<key>public.kern2.X</key>
 		<integer>-10</integer>
-		<key>@MMK_R_Y</key>
+		<key>public.kern2.Y</key>
 		<integer>-30</integer>
-		<key>@MMK_R_Z_sc</key>
+		<key>public.kern2.Z_sc</key>
 		<integer>-10</integer>
-		<key>@MMK_R_v</key>
+		<key>public.kern2.v</key>
 		<integer>-10</integer>
-		<key>@MMK_R_x</key>
+		<key>public.kern2.x</key>
 		<integer>-16</integer>
 	</dict>
-	<key>@MMK_L_B_sc</key>
+	<key>public.kern1.B_sc</key>
 	<dict>
-		<key>@MMK_R_1</key>
+		<key>public.kern2.1</key>
 		<integer>-20</integer>
-		<key>@MMK_R_7</key>
+		<key>public.kern2.7</key>
 		<integer>-40</integer>
-		<key>@MMK_R_A</key>
+		<key>public.kern2.A</key>
 		<integer>-5</integer>
-		<key>@MMK_R_A_sc</key>
+		<key>public.kern2.A_sc</key>
 		<integer>-5</integer>
-		<key>@MMK_R_T</key>
+		<key>public.kern2.T</key>
 		<integer>-60</integer>
-		<key>@MMK_R_T_sc</key>
+		<key>public.kern2.T_sc</key>
 		<integer>-20</integer>
-		<key>@MMK_R_V</key>
+		<key>public.kern2.V</key>
 		<integer>-30</integer>
-		<key>@MMK_R_V_sc</key>
+		<key>public.kern2.V_sc</key>
 		<integer>-20</integer>
-		<key>@MMK_R_X</key>
+		<key>public.kern2.X</key>
 		<integer>-20</integer>
-		<key>@MMK_R_X_sc</key>
+		<key>public.kern2.X_sc</key>
 		<integer>-20</integer>
-		<key>@MMK_R_Y</key>
+		<key>public.kern2.Y</key>
 		<integer>-60</integer>
 	</dict>
-	<key>@MMK_L_E</key>
+	<key>public.kern1.E</key>
 	<dict>
-		<key>@MMK_R_1</key>
+		<key>public.kern2.1</key>
 		<integer>-40</integer>
-		<key>@MMK_R_T_sc</key>
+		<key>public.kern2.T_sc</key>
 		<integer>-30</integer>
-		<key>@MMK_R_V</key>
+		<key>public.kern2.V</key>
 		<integer>-10</integer>
-		<key>@MMK_R_V_sc</key>
+		<key>public.kern2.V_sc</key>
 		<integer>-30</integer>
-		<key>@MMK_R_Y</key>
+		<key>public.kern2.Y</key>
 		<integer>-20</integer>
-		<key>@MMK_R_f</key>
+		<key>public.kern2.f</key>
 		<integer>-20</integer>
-		<key>@MMK_R_v</key>
+		<key>public.kern2.v</key>
 		<integer>-30</integer>
 	</dict>
-	<key>@MMK_L_F</key>
+	<key>public.kern1.F</key>
 	<dict>
-		<key>@MMK_R_1</key>
+		<key>public.kern2.1</key>
 		<integer>-40</integer>
-		<key>@MMK_R_2</key>
+		<key>public.kern2.2</key>
 		<integer>-20</integer>
-		<key>@MMK_R_4</key>
+		<key>public.kern2.4</key>
 		<integer>-30</integer>
-		<key>@MMK_R_A</key>
+		<key>public.kern2.A</key>
 		<integer>-25</integer>
-		<key>@MMK_R_A_sc</key>
+		<key>public.kern2.A_sc</key>
 		<integer>-50</integer>
-		<key>@MMK_R_H_sc</key>
+		<key>public.kern2.H_sc</key>
 		<integer>-20</integer>
-		<key>@MMK_R_J</key>
+		<key>public.kern2.J</key>
 		<integer>-50</integer>
-		<key>@MMK_R_O_sc</key>
+		<key>public.kern2.O_sc</key>
 		<integer>-20</integer>
-		<key>@MMK_R_T_sc</key>
+		<key>public.kern2.T_sc</key>
 		<integer>-20</integer>
-		<key>@MMK_R_V</key>
+		<key>public.kern2.V</key>
 		<integer>-5</integer>
-		<key>@MMK_R_V_sc</key>
+		<key>public.kern2.V_sc</key>
 		<integer>-20</integer>
-		<key>@MMK_R_X</key>
+		<key>public.kern2.X</key>
 		<integer>-20</integer>
-		<key>@MMK_R_X_sc</key>
+		<key>public.kern2.X_sc</key>
 		<integer>-40</integer>
-		<key>@MMK_R_Z</key>
+		<key>public.kern2.Z</key>
 		<integer>-20</integer>
-		<key>@MMK_R_Z_sc</key>
+		<key>public.kern2.Z_sc</key>
 		<integer>-40</integer>
-		<key>@MMK_R_a</key>
+		<key>public.kern2.a</key>
 		<integer>-30</integer>
-		<key>@MMK_R_f</key>
+		<key>public.kern2.f</key>
 		<integer>-10</integer>
-		<key>@MMK_R_low</key>
+		<key>public.kern2.low</key>
 		<integer>-100</integer>
-		<key>@MMK_R_n</key>
+		<key>public.kern2.n</key>
 		<integer>-16</integer>
-		<key>@MMK_R_o</key>
+		<key>public.kern2.o</key>
 		<integer>-16</integer>
-		<key>@MMK_R_v</key>
+		<key>public.kern2.v</key>
 		<integer>-20</integer>
-		<key>@MMK_R_x</key>
+		<key>public.kern2.x</key>
 		<integer>-36</integer>
-		<key>@MMK_R_z</key>
+		<key>public.kern2.z</key>
 		<integer>-20</integer>
 	</dict>
-	<key>@MMK_L_F_sc</key>
+	<key>public.kern1.F_sc</key>
 	<dict>
-		<key>@MMK_R_1</key>
+		<key>public.kern2.1</key>
 		<integer>-20</integer>
-		<key>@MMK_R_2</key>
+		<key>public.kern2.2</key>
 		<integer>-30</integer>
-		<key>@MMK_R_3</key>
+		<key>public.kern2.3</key>
 		<integer>-10</integer>
-		<key>@MMK_R_4</key>
+		<key>public.kern2.4</key>
 		<integer>-10</integer>
-		<key>@MMK_R_7</key>
+		<key>public.kern2.7</key>
 		<integer>-50</integer>
-		<key>@MMK_R_A</key>
+		<key>public.kern2.A</key>
 		<integer>-30</integer>
-		<key>@MMK_R_A_sc</key>
+		<key>public.kern2.A_sc</key>
 		<integer>-30</integer>
-		<key>@MMK_R_J</key>
+		<key>public.kern2.J</key>
 		<integer>-10</integer>
-		<key>@MMK_R_T</key>
+		<key>public.kern2.T</key>
 		<integer>-40</integer>
-		<key>@MMK_R_V</key>
+		<key>public.kern2.V</key>
 		<integer>-20</integer>
-		<key>@MMK_R_V_sc</key>
+		<key>public.kern2.V_sc</key>
 		<integer>-20</integer>
-		<key>@MMK_R_X</key>
+		<key>public.kern2.X</key>
 		<integer>-30</integer>
-		<key>@MMK_R_X_sc</key>
+		<key>public.kern2.X_sc</key>
 		<integer>-20</integer>
-		<key>@MMK_R_Y</key>
+		<key>public.kern2.Y</key>
 		<integer>-40</integer>
-		<key>@MMK_R_Z</key>
+		<key>public.kern2.Z</key>
 		<integer>-40</integer>
-		<key>@MMK_R_Z_sc</key>
+		<key>public.kern2.Z_sc</key>
 		<integer>-20</integer>
 	</dict>
-	<key>@MMK_L_H</key>
+	<key>public.kern1.H</key>
 	<dict>
-		<key>@MMK_R_1</key>
+		<key>public.kern2.1</key>
 		<integer>-30</integer>
-		<key>@MMK_R_T_sc</key>
+		<key>public.kern2.T_sc</key>
 		<integer>-10</integer>
-		<key>@MMK_R_V_sc</key>
+		<key>public.kern2.V_sc</key>
 		<integer>-10</integer>
-		<key>@MMK_R_X_sc</key>
+		<key>public.kern2.X_sc</key>
 		<integer>-10</integer>
-		<key>@MMK_R_a</key>
+		<key>public.kern2.a</key>
 		<integer>-10</integer>
-		<key>@MMK_R_f</key>
+		<key>public.kern2.f</key>
 		<integer>-10</integer>
-		<key>@MMK_R_o</key>
+		<key>public.kern2.o</key>
 		<integer>-10</integer>
-		<key>@MMK_R_v</key>
+		<key>public.kern2.v</key>
 		<integer>-20</integer>
-		<key>@MMK_R_x</key>
+		<key>public.kern2.x</key>
 		<integer>-10</integer>
 	</dict>
-	<key>@MMK_L_H_sc</key>
+	<key>public.kern1.H_sc</key>
 	<dict>
-		<key>@MMK_R_1</key>
+		<key>public.kern2.1</key>
 		<integer>-30</integer>
-		<key>@MMK_R_7</key>
+		<key>public.kern2.7</key>
 		<integer>-40</integer>
-		<key>@MMK_R_T</key>
+		<key>public.kern2.T</key>
 		<integer>-40</integer>
-		<key>@MMK_R_V</key>
+		<key>public.kern2.V</key>
 		<integer>-20</integer>
-		<key>@MMK_R_Y</key>
+		<key>public.kern2.Y</key>
 		<integer>-30</integer>
 	</dict>
-	<key>@MMK_L_L</key>
+	<key>public.kern1.L</key>
 	<dict>
-		<key>@MMK_R_1</key>
+		<key>public.kern2.1</key>
 		<integer>-80</integer>
-		<key>@MMK_R_T</key>
+		<key>public.kern2.T</key>
 		<integer>-60</integer>
-		<key>@MMK_R_T_sc</key>
+		<key>public.kern2.T_sc</key>
 		<integer>-60</integer>
-		<key>@MMK_R_V</key>
+		<key>public.kern2.V</key>
 		<integer>-40</integer>
-		<key>@MMK_R_V_sc</key>
+		<key>public.kern2.V_sc</key>
 		<integer>-50</integer>
-		<key>@MMK_R_Y</key>
+		<key>public.kern2.Y</key>
 		<integer>-80</integer>
-		<key>@MMK_R_f</key>
+		<key>public.kern2.f</key>
 		<integer>-30</integer>
-		<key>@MMK_R_v</key>
+		<key>public.kern2.v</key>
 		<integer>-40</integer>
 	</dict>
-	<key>@MMK_L_L_sc</key>
+	<key>public.kern1.L_sc</key>
 	<dict>
-		<key>@MMK_R_1</key>
+		<key>public.kern2.1</key>
 		<integer>-70</integer>
-		<key>@MMK_R_7</key>
+		<key>public.kern2.7</key>
 		<integer>-40</integer>
-		<key>@MMK_R_T</key>
+		<key>public.kern2.T</key>
 		<integer>-60</integer>
-		<key>@MMK_R_T_sc</key>
+		<key>public.kern2.T_sc</key>
 		<integer>-60</integer>
-		<key>@MMK_R_V</key>
+		<key>public.kern2.V</key>
 		<integer>-40</integer>
-		<key>@MMK_R_V_sc</key>
+		<key>public.kern2.V_sc</key>
 		<integer>-60</integer>
-		<key>@MMK_R_Y</key>
+		<key>public.kern2.Y</key>
 		<integer>-90</integer>
 	</dict>
-	<key>@MMK_L_O</key>
+	<key>public.kern1.O</key>
 	<dict>
-		<key>@MMK_R_1</key>
+		<key>public.kern2.1</key>
 		<integer>-30</integer>
-		<key>@MMK_R_2</key>
+		<key>public.kern2.2</key>
 		<integer>-10</integer>
-		<key>@MMK_R_A</key>
+		<key>public.kern2.A</key>
 		<integer>-16</integer>
-		<key>@MMK_R_A_sc</key>
+		<key>public.kern2.A_sc</key>
 		<integer>-10</integer>
-		<key>@MMK_R_T</key>
+		<key>public.kern2.T</key>
 		<integer>-10</integer>
-		<key>@MMK_R_T_sc</key>
+		<key>public.kern2.T_sc</key>
 		<integer>-10</integer>
-		<key>@MMK_R_V</key>
+		<key>public.kern2.V</key>
 		<integer>-18</integer>
-		<key>@MMK_R_X</key>
+		<key>public.kern2.X</key>
 		<integer>-26</integer>
-		<key>@MMK_R_X_sc</key>
+		<key>public.kern2.X_sc</key>
 		<integer>-20</integer>
-		<key>@MMK_R_Y</key>
+		<key>public.kern2.Y</key>
 		<integer>-30</integer>
-		<key>@MMK_R_a</key>
+		<key>public.kern2.a</key>
 		<integer>-10</integer>
-		<key>@MMK_R_x</key>
+		<key>public.kern2.x</key>
 		<integer>-10</integer>
 	</dict>
-	<key>@MMK_L_O_sc</key>
+	<key>public.kern1.O_sc</key>
 	<dict>
-		<key>@MMK_R_1</key>
+		<key>public.kern2.1</key>
 		<integer>-30</integer>
-		<key>@MMK_R_2</key>
+		<key>public.kern2.2</key>
 		<integer>-10</integer>
-		<key>@MMK_R_7</key>
+		<key>public.kern2.7</key>
 		<integer>-50</integer>
-		<key>@MMK_R_A</key>
+		<key>public.kern2.A</key>
 		<integer>-5</integer>
-		<key>@MMK_R_A_sc</key>
+		<key>public.kern2.A_sc</key>
 		<integer>-10</integer>
-		<key>@MMK_R_T</key>
+		<key>public.kern2.T</key>
 		<integer>-40</integer>
-		<key>@MMK_R_T_sc</key>
+		<key>public.kern2.T_sc</key>
 		<integer>-10</integer>
-		<key>@MMK_R_V</key>
+		<key>public.kern2.V</key>
 		<integer>-20</integer>
-		<key>@MMK_R_V_sc</key>
+		<key>public.kern2.V_sc</key>
 		<integer>-10</integer>
-		<key>@MMK_R_X</key>
+		<key>public.kern2.X</key>
 		<integer>-20</integer>
-		<key>@MMK_R_X_sc</key>
+		<key>public.kern2.X_sc</key>
 		<integer>-20</integer>
-		<key>@MMK_R_Y</key>
+		<key>public.kern2.Y</key>
 		<integer>-50</integer>
 	</dict>
-	<key>@MMK_L_P</key>
+	<key>public.kern1.P</key>
 	<dict>
-		<key>@MMK_R_A</key>
+		<key>public.kern2.A</key>
 		<integer>-30</integer>
-		<key>@MMK_R_A_sc</key>
+		<key>public.kern2.A_sc</key>
 		<integer>-40</integer>
-		<key>@MMK_R_J</key>
+		<key>public.kern2.J</key>
 		<integer>-20</integer>
-		<key>@MMK_R_T</key>
+		<key>public.kern2.T</key>
 		<integer>-10</integer>
-		<key>@MMK_R_V</key>
+		<key>public.kern2.V</key>
 		<integer>-10</integer>
-		<key>@MMK_R_X</key>
+		<key>public.kern2.X</key>
 		<integer>-20</integer>
-		<key>@MMK_R_Z</key>
+		<key>public.kern2.Z</key>
 		<integer>-20</integer>
-		<key>@MMK_R_Z_sc</key>
+		<key>public.kern2.Z_sc</key>
 		<integer>-20</integer>
-		<key>@MMK_R_a</key>
+		<key>public.kern2.a</key>
 		<integer>-16</integer>
-		<key>@MMK_R_o</key>
+		<key>public.kern2.o</key>
 		<integer>-10</integer>
-		<key>@MMK_R_x</key>
+		<key>public.kern2.x</key>
 		<integer>-10</integer>
-		<key>@MMK_R_z</key>
+		<key>public.kern2.z</key>
 		<integer>-10</integer>
 	</dict>
-	<key>@MMK_L_R</key>
+	<key>public.kern1.R</key>
 	<dict>
-		<key>@MMK_R_1</key>
+		<key>public.kern2.1</key>
 		<integer>-40</integer>
-		<key>@MMK_R_4</key>
+		<key>public.kern2.4</key>
 		<integer>-20</integer>
-		<key>@MMK_R_7</key>
+		<key>public.kern2.7</key>
 		<integer>-10</integer>
-		<key>@MMK_R_A_sc</key>
+		<key>public.kern2.A_sc</key>
 		<integer>-10</integer>
-		<key>@MMK_R_O</key>
+		<key>public.kern2.O</key>
 		<integer>-18</integer>
-		<key>@MMK_R_O_sc</key>
+		<key>public.kern2.O_sc</key>
 		<integer>-16</integer>
-		<key>@MMK_R_T</key>
+		<key>public.kern2.T</key>
 		<integer>-30</integer>
-		<key>@MMK_R_T_sc</key>
+		<key>public.kern2.T_sc</key>
 		<integer>-20</integer>
-		<key>@MMK_R_U_sc</key>
+		<key>public.kern2.U_sc</key>
 		<integer>-10</integer>
-		<key>@MMK_R_V</key>
+		<key>public.kern2.V</key>
 		<integer>-30</integer>
-		<key>@MMK_R_V_sc</key>
+		<key>public.kern2.V_sc</key>
 		<integer>-26</integer>
-		<key>@MMK_R_Y</key>
+		<key>public.kern2.Y</key>
 		<integer>-50</integer>
-		<key>@MMK_R_a</key>
+		<key>public.kern2.a</key>
 		<integer>-10</integer>
-		<key>@MMK_R_f</key>
+		<key>public.kern2.f</key>
 		<integer>-20</integer>
-		<key>@MMK_R_o</key>
+		<key>public.kern2.o</key>
 		<integer>-15</integer>
-		<key>@MMK_R_v</key>
+		<key>public.kern2.v</key>
 		<integer>-30</integer>
 	</dict>
-	<key>@MMK_L_R_sc</key>
+	<key>public.kern1.R_sc</key>
 	<dict>
-		<key>@MMK_R_1</key>
+		<key>public.kern2.1</key>
 		<integer>-30</integer>
-		<key>@MMK_R_7</key>
+		<key>public.kern2.7</key>
 		<integer>-50</integer>
-		<key>@MMK_R_O</key>
+		<key>public.kern2.O</key>
 		<integer>-16</integer>
-		<key>@MMK_R_O_sc</key>
+		<key>public.kern2.O_sc</key>
 		<integer>-10</integer>
-		<key>@MMK_R_T</key>
+		<key>public.kern2.T</key>
 		<integer>-50</integer>
-		<key>@MMK_R_T_sc</key>
+		<key>public.kern2.T_sc</key>
 		<integer>-20</integer>
-		<key>@MMK_R_U</key>
+		<key>public.kern2.U</key>
 		<integer>-16</integer>
-		<key>@MMK_R_U_sc</key>
+		<key>public.kern2.U_sc</key>
 		<integer>-10</integer>
-		<key>@MMK_R_V</key>
+		<key>public.kern2.V</key>
 		<integer>-30</integer>
-		<key>@MMK_R_V_sc</key>
+		<key>public.kern2.V_sc</key>
 		<integer>-20</integer>
-		<key>@MMK_R_Y</key>
+		<key>public.kern2.Y</key>
 		<integer>-50</integer>
 	</dict>
-	<key>@MMK_L_S</key>
+	<key>public.kern1.S</key>
 	<dict>
-		<key>@MMK_R_1</key>
+		<key>public.kern2.1</key>
 		<integer>-40</integer>
-		<key>@MMK_R_7</key>
+		<key>public.kern2.7</key>
 		<integer>-10</integer>
-		<key>@MMK_R_A</key>
+		<key>public.kern2.A</key>
 		<integer>-6</integer>
-		<key>@MMK_R_A_sc</key>
+		<key>public.kern2.A_sc</key>
 		<integer>-10</integer>
-		<key>@MMK_R_T</key>
+		<key>public.kern2.T</key>
 		<integer>-16</integer>
-		<key>@MMK_R_T_sc</key>
+		<key>public.kern2.T_sc</key>
 		<integer>-10</integer>
-		<key>@MMK_R_V</key>
+		<key>public.kern2.V</key>
 		<integer>-16</integer>
-		<key>@MMK_R_V_sc</key>
+		<key>public.kern2.V_sc</key>
 		<integer>-15</integer>
-		<key>@MMK_R_X</key>
+		<key>public.kern2.X</key>
 		<integer>-16</integer>
-		<key>@MMK_R_X_sc</key>
+		<key>public.kern2.X_sc</key>
 		<integer>-10</integer>
-		<key>@MMK_R_Y</key>
+		<key>public.kern2.Y</key>
 		<integer>-40</integer>
-		<key>@MMK_R_f</key>
+		<key>public.kern2.f</key>
 		<integer>-20</integer>
-		<key>@MMK_R_v</key>
+		<key>public.kern2.v</key>
 		<integer>-16</integer>
-		<key>@MMK_R_x</key>
+		<key>public.kern2.x</key>
 		<integer>-16</integer>
 	</dict>
-	<key>@MMK_L_S_sc</key>
+	<key>public.kern1.S_sc</key>
 	<dict>
-		<key>@MMK_R_1</key>
+		<key>public.kern2.1</key>
 		<integer>-30</integer>
-		<key>@MMK_R_7</key>
+		<key>public.kern2.7</key>
 		<integer>-40</integer>
-		<key>@MMK_R_T</key>
+		<key>public.kern2.T</key>
 		<integer>-40</integer>
-		<key>@MMK_R_T_sc</key>
+		<key>public.kern2.T_sc</key>
 		<integer>-20</integer>
-		<key>@MMK_R_V</key>
+		<key>public.kern2.V</key>
 		<integer>-16</integer>
-		<key>@MMK_R_V_sc</key>
+		<key>public.kern2.V_sc</key>
 		<integer>-20</integer>
-		<key>@MMK_R_X</key>
+		<key>public.kern2.X</key>
 		<integer>-10</integer>
-		<key>@MMK_R_Y</key>
+		<key>public.kern2.Y</key>
 		<integer>-40</integer>
 	</dict>
-	<key>@MMK_L_T</key>
+	<key>public.kern1.T</key>
 	<dict>
-		<key>@MMK_R_1</key>
+		<key>public.kern2.1</key>
 		<integer>-40</integer>
-		<key>@MMK_R_4</key>
+		<key>public.kern2.4</key>
 		<integer>-50</integer>
-		<key>@MMK_R_A</key>
+		<key>public.kern2.A</key>
 		<integer>-40</integer>
-		<key>@MMK_R_A_sc</key>
+		<key>public.kern2.A_sc</key>
 		<integer>-60</integer>
-		<key>@MMK_R_H_sc</key>
+		<key>public.kern2.H_sc</key>
 		<integer>-30</integer>
-		<key>@MMK_R_J</key>
+		<key>public.kern2.J</key>
 		<integer>-50</integer>
-		<key>@MMK_R_O</key>
+		<key>public.kern2.O</key>
 		<integer>-10</integer>
-		<key>@MMK_R_O_sc</key>
+		<key>public.kern2.O_sc</key>
 		<integer>-40</integer>
-		<key>@MMK_R_S</key>
+		<key>public.kern2.S</key>
 		<integer>-16</integer>
-		<key>@MMK_R_S_sc</key>
+		<key>public.kern2.S_sc</key>
 		<integer>-40</integer>
-		<key>@MMK_R_T_sc</key>
+		<key>public.kern2.T_sc</key>
 		<integer>-40</integer>
-		<key>@MMK_R_U_sc</key>
+		<key>public.kern2.U_sc</key>
 		<integer>-50</integer>
-		<key>@MMK_R_V_sc</key>
+		<key>public.kern2.V_sc</key>
 		<integer>-50</integer>
-		<key>@MMK_R_X</key>
+		<key>public.kern2.X</key>
 		<integer>-10</integer>
-		<key>@MMK_R_X_sc</key>
+		<key>public.kern2.X_sc</key>
 		<integer>-40</integer>
-		<key>@MMK_R_Z_sc</key>
+		<key>public.kern2.Z_sc</key>
 		<integer>-40</integer>
-		<key>@MMK_R_a</key>
+		<key>public.kern2.a</key>
 		<integer>-60</integer>
-		<key>@MMK_R_f</key>
+		<key>public.kern2.f</key>
 		<integer>-30</integer>
-		<key>@MMK_R_n</key>
+		<key>public.kern2.n</key>
 		<integer>-40</integer>
-		<key>@MMK_R_o</key>
+		<key>public.kern2.o</key>
 		<integer>-40</integer>
-		<key>@MMK_R_s</key>
+		<key>public.kern2.s</key>
 		<integer>-40</integer>
-		<key>@MMK_R_v</key>
+		<key>public.kern2.v</key>
 		<integer>-40</integer>
-		<key>@MMK_R_x</key>
+		<key>public.kern2.x</key>
 		<integer>-40</integer>
-		<key>@MMK_R_z</key>
+		<key>public.kern2.z</key>
 		<integer>-40</integer>
 	</dict>
-	<key>@MMK_L_T_sc</key>
+	<key>public.kern1.T_sc</key>
 	<dict>
-		<key>@MMK_R_7</key>
+		<key>public.kern2.7</key>
 		<integer>-30</integer>
-		<key>@MMK_R_A</key>
+		<key>public.kern2.A</key>
 		<integer>-30</integer>
-		<key>@MMK_R_A_sc</key>
+		<key>public.kern2.A_sc</key>
 		<integer>-40</integer>
-		<key>@MMK_R_H</key>
+		<key>public.kern2.H</key>
 		<integer>-5</integer>
-		<key>@MMK_R_J</key>
+		<key>public.kern2.J</key>
 		<integer>-40</integer>
-		<key>@MMK_R_O</key>
+		<key>public.kern2.O</key>
 		<integer>-10</integer>
-		<key>@MMK_R_O_sc</key>
+		<key>public.kern2.O_sc</key>
 		<integer>-10</integer>
-		<key>@MMK_R_S_sc</key>
+		<key>public.kern2.S_sc</key>
 		<integer>-10</integer>
-		<key>@MMK_R_T</key>
+		<key>public.kern2.T</key>
 		<integer>-40</integer>
-		<key>@MMK_R_V</key>
+		<key>public.kern2.V</key>
 		<integer>-10</integer>
-		<key>@MMK_R_X</key>
+		<key>public.kern2.X</key>
 		<integer>-30</integer>
-		<key>@MMK_R_Y</key>
+		<key>public.kern2.Y</key>
 		<integer>-30</integer>
-		<key>@MMK_R_Z</key>
+		<key>public.kern2.Z</key>
 		<integer>-40</integer>
 	</dict>
-	<key>@MMK_L_U</key>
+	<key>public.kern1.U</key>
 	<dict>
-		<key>@MMK_R_1</key>
+		<key>public.kern2.1</key>
 		<integer>-30</integer>
-		<key>@MMK_R_A</key>
+		<key>public.kern2.A</key>
 		<integer>-15</integer>
-		<key>@MMK_R_A_sc</key>
+		<key>public.kern2.A_sc</key>
 		<integer>-20</integer>
-		<key>@MMK_R_V_sc</key>
+		<key>public.kern2.V_sc</key>
 		<integer>-10</integer>
-		<key>@MMK_R_X</key>
+		<key>public.kern2.X</key>
 		<integer>-10</integer>
-		<key>@MMK_R_X_sc</key>
+		<key>public.kern2.X_sc</key>
 		<integer>-10</integer>
-		<key>@MMK_R_Y</key>
+		<key>public.kern2.Y</key>
 		<integer>-10</integer>
-		<key>@MMK_R_Z_sc</key>
+		<key>public.kern2.Z_sc</key>
 		<integer>-10</integer>
-		<key>@MMK_R_a</key>
+		<key>public.kern2.a</key>
 		<integer>-20</integer>
-		<key>@MMK_R_x</key>
+		<key>public.kern2.x</key>
 		<integer>-10</integer>
 	</dict>
-	<key>@MMK_L_U_sc</key>
+	<key>public.kern1.U_sc</key>
 	<dict>
-		<key>@MMK_R_1</key>
+		<key>public.kern2.1</key>
 		<integer>-20</integer>
-		<key>@MMK_R_7</key>
+		<key>public.kern2.7</key>
 		<integer>-30</integer>
-		<key>@MMK_R_A</key>
+		<key>public.kern2.A</key>
 		<integer>-5</integer>
-		<key>@MMK_R_A_sc</key>
+		<key>public.kern2.A_sc</key>
 		<integer>-10</integer>
-		<key>@MMK_R_T</key>
+		<key>public.kern2.T</key>
 		<integer>-50</integer>
-		<key>@MMK_R_V</key>
+		<key>public.kern2.V</key>
 		<integer>-20</integer>
-		<key>@MMK_R_X</key>
+		<key>public.kern2.X</key>
 		<integer>-20</integer>
-		<key>@MMK_R_X_sc</key>
+		<key>public.kern2.X_sc</key>
 		<integer>-10</integer>
-		<key>@MMK_R_Y</key>
+		<key>public.kern2.Y</key>
 		<integer>-30</integer>
 	</dict>
-	<key>@MMK_L_V</key>
+	<key>public.kern1.V</key>
 	<dict>
-		<key>@MMK_R_1</key>
+		<key>public.kern2.1</key>
 		<integer>-20</integer>
-		<key>@MMK_R_4</key>
+		<key>public.kern2.4</key>
 		<integer>-30</integer>
-		<key>@MMK_R_A</key>
+		<key>public.kern2.A</key>
 		<integer>-35</integer>
-		<key>@MMK_R_A_sc</key>
+		<key>public.kern2.A_sc</key>
 		<integer>-40</integer>
-		<key>@MMK_R_H_sc</key>
+		<key>public.kern2.H_sc</key>
 		<integer>-10</integer>
-		<key>@MMK_R_J</key>
+		<key>public.kern2.J</key>
 		<integer>-20</integer>
-		<key>@MMK_R_O</key>
+		<key>public.kern2.O</key>
 		<integer>-20</integer>
-		<key>@MMK_R_O_sc</key>
+		<key>public.kern2.O_sc</key>
 		<integer>-20</integer>
-		<key>@MMK_R_S</key>
+		<key>public.kern2.S</key>
 		<integer>-16</integer>
-		<key>@MMK_R_S_sc</key>
+		<key>public.kern2.S_sc</key>
 		<integer>-16</integer>
-		<key>@MMK_R_T_sc</key>
+		<key>public.kern2.T_sc</key>
 		<integer>-10</integer>
-		<key>@MMK_R_U_sc</key>
+		<key>public.kern2.U_sc</key>
 		<integer>-20</integer>
-		<key>@MMK_R_V_sc</key>
+		<key>public.kern2.V_sc</key>
 		<integer>-10</integer>
-		<key>@MMK_R_X_sc</key>
+		<key>public.kern2.X_sc</key>
 		<integer>-10</integer>
-		<key>@MMK_R_Z_sc</key>
+		<key>public.kern2.Z_sc</key>
 		<integer>-30</integer>
-		<key>@MMK_R_a</key>
+		<key>public.kern2.a</key>
 		<integer>-30</integer>
-		<key>@MMK_R_f</key>
+		<key>public.kern2.f</key>
 		<integer>-20</integer>
-		<key>@MMK_R_low</key>
+		<key>public.kern2.low</key>
 		<integer>-60</integer>
-		<key>@MMK_R_n</key>
+		<key>public.kern2.n</key>
 		<integer>-30</integer>
-		<key>@MMK_R_o</key>
+		<key>public.kern2.o</key>
 		<integer>-35</integer>
-		<key>@MMK_R_s</key>
+		<key>public.kern2.s</key>
 		<integer>-20</integer>
-		<key>@MMK_R_v</key>
+		<key>public.kern2.v</key>
 		<integer>-20</integer>
-		<key>@MMK_R_x</key>
+		<key>public.kern2.x</key>
 		<integer>-30</integer>
-		<key>@MMK_R_z</key>
+		<key>public.kern2.z</key>
 		<integer>-40</integer>
 	</dict>
-	<key>@MMK_L_V_sc</key>
+	<key>public.kern1.V_sc</key>
 	<dict>
-		<key>@MMK_R_1</key>
+		<key>public.kern2.1</key>
 		<integer>-10</integer>
-		<key>@MMK_R_4</key>
+		<key>public.kern2.4</key>
 		<integer>-30</integer>
-		<key>@MMK_R_7</key>
+		<key>public.kern2.7</key>
 		<integer>-20</integer>
-		<key>@MMK_R_A</key>
+		<key>public.kern2.A</key>
 		<integer>-25</integer>
-		<key>@MMK_R_A_sc</key>
+		<key>public.kern2.A_sc</key>
 		<integer>-35</integer>
-		<key>@MMK_R_H</key>
+		<key>public.kern2.H</key>
 		<integer>-10</integer>
-		<key>@MMK_R_J</key>
+		<key>public.kern2.J</key>
 		<integer>-10</integer>
-		<key>@MMK_R_O_sc</key>
+		<key>public.kern2.O_sc</key>
 		<integer>-10</integer>
-		<key>@MMK_R_S_sc</key>
+		<key>public.kern2.S_sc</key>
 		<integer>-10</integer>
-		<key>@MMK_R_T</key>
+		<key>public.kern2.T</key>
 		<integer>-50</integer>
-		<key>@MMK_R_U</key>
+		<key>public.kern2.U</key>
 		<integer>-10</integer>
-		<key>@MMK_R_V</key>
+		<key>public.kern2.V</key>
 		<integer>-10</integer>
-		<key>@MMK_R_X</key>
+		<key>public.kern2.X</key>
 		<integer>-10</integer>
-		<key>@MMK_R_Y</key>
+		<key>public.kern2.Y</key>
 		<integer>-20</integer>
-		<key>@MMK_R_Z</key>
+		<key>public.kern2.Z</key>
 		<integer>-50</integer>
-		<key>@MMK_R_Z_sc</key>
+		<key>public.kern2.Z_sc</key>
 		<integer>-20</integer>
 	</dict>
-	<key>@MMK_L_X</key>
+	<key>public.kern1.X</key>
 	<dict>
-		<key>@MMK_R_0</key>
+		<key>public.kern2.0</key>
 		<integer>-10</integer>
-		<key>@MMK_R_1</key>
+		<key>public.kern2.1</key>
 		<integer>-80</integer>
-		<key>@MMK_R_3</key>
+		<key>public.kern2.3</key>
 		<integer>-20</integer>
-		<key>@MMK_R_4</key>
+		<key>public.kern2.4</key>
 		<integer>-30</integer>
-		<key>@MMK_R_A_sc</key>
+		<key>public.kern2.A_sc</key>
 		<integer>-20</integer>
-		<key>@MMK_R_J</key>
+		<key>public.kern2.J</key>
 		<integer>-10</integer>
-		<key>@MMK_R_O</key>
+		<key>public.kern2.O</key>
 		<integer>-26</integer>
-		<key>@MMK_R_O_sc</key>
+		<key>public.kern2.O_sc</key>
 		<integer>-20</integer>
-		<key>@MMK_R_S</key>
+		<key>public.kern2.S</key>
 		<integer>-16</integer>
-		<key>@MMK_R_S_sc</key>
+		<key>public.kern2.S_sc</key>
 		<integer>-10</integer>
-		<key>@MMK_R_T</key>
+		<key>public.kern2.T</key>
 		<integer>-20</integer>
-		<key>@MMK_R_T_sc</key>
+		<key>public.kern2.T_sc</key>
 		<integer>-60</integer>
-		<key>@MMK_R_U</key>
+		<key>public.kern2.U</key>
 		<integer>-20</integer>
-		<key>@MMK_R_U_sc</key>
+		<key>public.kern2.U_sc</key>
 		<integer>-10</integer>
-		<key>@MMK_R_V_sc</key>
+		<key>public.kern2.V_sc</key>
 		<integer>-50</integer>
-		<key>@MMK_R_Y</key>
+		<key>public.kern2.Y</key>
 		<integer>-20</integer>
-		<key>@MMK_R_a</key>
+		<key>public.kern2.a</key>
 		<integer>-10</integer>
-		<key>@MMK_R_f</key>
+		<key>public.kern2.f</key>
 		<integer>-36</integer>
-		<key>@MMK_R_o</key>
+		<key>public.kern2.o</key>
 		<integer>-16</integer>
-		<key>@MMK_R_v</key>
+		<key>public.kern2.v</key>
 		<integer>-60</integer>
 	</dict>
-	<key>@MMK_L_X_sc</key>
+	<key>public.kern1.X_sc</key>
 	<dict>
-		<key>@MMK_R_1</key>
+		<key>public.kern2.1</key>
 		<integer>-20</integer>
-		<key>@MMK_R_4</key>
+		<key>public.kern2.4</key>
 		<integer>-30</integer>
-		<key>@MMK_R_7</key>
+		<key>public.kern2.7</key>
 		<integer>-20</integer>
-		<key>@MMK_R_A_sc</key>
+		<key>public.kern2.A_sc</key>
 		<integer>-10</integer>
-		<key>@MMK_R_H</key>
+		<key>public.kern2.H</key>
 		<integer>-10</integer>
-		<key>@MMK_R_O</key>
+		<key>public.kern2.O</key>
 		<integer>-20</integer>
-		<key>@MMK_R_O_sc</key>
+		<key>public.kern2.O_sc</key>
 		<integer>-20</integer>
-		<key>@MMK_R_S_sc</key>
+		<key>public.kern2.S_sc</key>
 		<integer>-10</integer>
-		<key>@MMK_R_T</key>
+		<key>public.kern2.T</key>
 		<integer>-40</integer>
-		<key>@MMK_R_U</key>
+		<key>public.kern2.U</key>
 		<integer>-10</integer>
-		<key>@MMK_R_U_sc</key>
+		<key>public.kern2.U_sc</key>
 		<integer>-10</integer>
-		<key>@MMK_R_V</key>
+		<key>public.kern2.V</key>
 		<integer>-10</integer>
-		<key>@MMK_R_Y</key>
+		<key>public.kern2.Y</key>
 		<integer>-30</integer>
 	</dict>
-	<key>@MMK_L_Y</key>
+	<key>public.kern1.Y</key>
 	<dict>
-		<key>@MMK_R_0</key>
+		<key>public.kern2.0</key>
 		<integer>-20</integer>
-		<key>@MMK_R_1</key>
+		<key>public.kern2.1</key>
 		<integer>-40</integer>
-		<key>@MMK_R_2</key>
+		<key>public.kern2.2</key>
 		<integer>-20</integer>
-		<key>@MMK_R_4</key>
+		<key>public.kern2.4</key>
 		<integer>-60</integer>
-		<key>@MMK_R_A</key>
+		<key>public.kern2.A</key>
 		<integer>-40</integer>
-		<key>@MMK_R_A_sc</key>
+		<key>public.kern2.A_sc</key>
 		<integer>-70</integer>
-		<key>@MMK_R_H</key>
+		<key>public.kern2.H</key>
 		<integer>-10</integer>
-		<key>@MMK_R_H_sc</key>
+		<key>public.kern2.H_sc</key>
 		<integer>-20</integer>
-		<key>@MMK_R_J</key>
+		<key>public.kern2.J</key>
 		<integer>-60</integer>
-		<key>@MMK_R_O</key>
+		<key>public.kern2.O</key>
 		<integer>-30</integer>
-		<key>@MMK_R_O_sc</key>
+		<key>public.kern2.O_sc</key>
 		<integer>-50</integer>
-		<key>@MMK_R_S</key>
+		<key>public.kern2.S</key>
 		<integer>-30</integer>
-		<key>@MMK_R_S_sc</key>
+		<key>public.kern2.S_sc</key>
 		<integer>-40</integer>
-		<key>@MMK_R_T_sc</key>
+		<key>public.kern2.T_sc</key>
 		<integer>-30</integer>
-		<key>@MMK_R_U</key>
+		<key>public.kern2.U</key>
 		<integer>-10</integer>
-		<key>@MMK_R_V_sc</key>
+		<key>public.kern2.V_sc</key>
 		<integer>-20</integer>
-		<key>@MMK_R_X</key>
+		<key>public.kern2.X</key>
 		<integer>-10</integer>
-		<key>@MMK_R_X_sc</key>
+		<key>public.kern2.X_sc</key>
 		<integer>-30</integer>
-		<key>@MMK_R_Z</key>
+		<key>public.kern2.Z</key>
 		<integer>-20</integer>
-		<key>@MMK_R_Z_sc</key>
+		<key>public.kern2.Z_sc</key>
 		<integer>-40</integer>
-		<key>@MMK_R_a</key>
+		<key>public.kern2.a</key>
 		<integer>-60</integer>
-		<key>@MMK_R_f</key>
+		<key>public.kern2.f</key>
 		<integer>-30</integer>
-		<key>@MMK_R_n</key>
+		<key>public.kern2.n</key>
 		<integer>-40</integer>
-		<key>@MMK_R_o</key>
+		<key>public.kern2.o</key>
 		<integer>-60</integer>
-		<key>@MMK_R_s</key>
+		<key>public.kern2.s</key>
 		<integer>-50</integer>
-		<key>@MMK_R_v</key>
+		<key>public.kern2.v</key>
 		<integer>-40</integer>
-		<key>@MMK_R_x</key>
+		<key>public.kern2.x</key>
 		<integer>-40</integer>
-		<key>@MMK_R_z</key>
+		<key>public.kern2.z</key>
 		<integer>-50</integer>
 	</dict>
-	<key>@MMK_L_Z</key>
+	<key>public.kern1.Z</key>
 	<dict>
-		<key>@MMK_R_1</key>
+		<key>public.kern2.1</key>
 		<integer>-50</integer>
-		<key>@MMK_R_T_sc</key>
+		<key>public.kern2.T_sc</key>
 		<integer>-30</integer>
-		<key>@MMK_R_V_sc</key>
+		<key>public.kern2.V_sc</key>
 		<integer>-20</integer>
-		<key>@MMK_R_f</key>
+		<key>public.kern2.f</key>
 		<integer>-26</integer>
-		<key>@MMK_R_v</key>
+		<key>public.kern2.v</key>
 		<integer>-40</integer>
 	</dict>
-	<key>@MMK_L_Z_sc</key>
+	<key>public.kern1.Z_sc</key>
 	<dict>
-		<key>@MMK_R_H</key>
+		<key>public.kern2.H</key>
 		<integer>-10</integer>
-		<key>@MMK_R_T</key>
+		<key>public.kern2.T</key>
 		<integer>-40</integer>
-		<key>@MMK_R_V</key>
+		<key>public.kern2.V</key>
 		<integer>-10</integer>
-		<key>@MMK_R_Y</key>
+		<key>public.kern2.Y</key>
 		<integer>-20</integer>
 	</dict>
-	<key>@MMK_L_f</key>
+	<key>public.kern1.f</key>
 	<dict>
-		<key>@MMK_R_A</key>
+		<key>public.kern2.A</key>
 		<integer>-16</integer>
-		<key>@MMK_R_H</key>
+		<key>public.kern2.H</key>
 		<integer>-10</integer>
-		<key>@MMK_R_Z</key>
+		<key>public.kern2.Z</key>
 		<integer>-10</integer>
-		<key>@MMK_R_a</key>
+		<key>public.kern2.a</key>
 		<integer>-15</integer>
-		<key>@MMK_R_dash</key>
+		<key>public.kern2.dash</key>
 		<integer>-40</integer>
-		<key>@MMK_R_o</key>
+		<key>public.kern2.o</key>
 		<integer>-10</integer>
-		<key>@MMK_R_x</key>
+		<key>public.kern2.x</key>
 		<integer>-10</integer>
 	</dict>
-	<key>@MMK_L_high</key>
+	<key>public.kern1.high</key>
 	<dict>
-		<key>@MMK_R_A</key>
+		<key>public.kern2.A</key>
 		<integer>-40</integer>
-		<key>@MMK_R_A_sc</key>
+		<key>public.kern2.A_sc</key>
 		<integer>-120</integer>
-		<key>@MMK_R_J</key>
+		<key>public.kern2.J</key>
 		<integer>-120</integer>
-		<key>@MMK_R_s</key>
+		<key>public.kern2.s</key>
 		<integer>-40</integer>
 	</dict>
-	<key>@MMK_L_i</key>
+	<key>public.kern1.i</key>
 	<dict>
-		<key>@MMK_R_V</key>
+		<key>public.kern2.V</key>
 		<integer>0</integer>
 	</dict>
-	<key>@MMK_L_l</key>
+	<key>public.kern1.l</key>
 	<dict>
-		<key>@MMK_R_a</key>
+		<key>public.kern2.a</key>
 		<integer>-10</integer>
-		<key>@MMK_R_v</key>
+		<key>public.kern2.v</key>
 		<integer>-10</integer>
 	</dict>
-	<key>@MMK_L_low</key>
+	<key>public.kern1.low</key>
 	<dict>
-		<key>@MMK_R_V</key>
+		<key>public.kern2.V</key>
 		<integer>-60</integer>
 	</dict>
-	<key>@MMK_L_n</key>
+	<key>public.kern1.n</key>
 	<dict>
-		<key>@MMK_R_T</key>
+		<key>public.kern2.T</key>
 		<integer>-50</integer>
-		<key>@MMK_R_U</key>
+		<key>public.kern2.U</key>
 		<integer>-10</integer>
-		<key>@MMK_R_V</key>
+		<key>public.kern2.V</key>
 		<integer>-30</integer>
-		<key>@MMK_R_Y</key>
+		<key>public.kern2.Y</key>
 		<integer>-60</integer>
-		<key>@MMK_R_a</key>
+		<key>public.kern2.a</key>
 		<integer>-10</integer>
-		<key>@MMK_R_f</key>
+		<key>public.kern2.f</key>
 		<integer>-10</integer>
-		<key>@MMK_R_n</key>
+		<key>public.kern2.n</key>
 		<integer>-5</integer>
-		<key>@MMK_R_v</key>
+		<key>public.kern2.v</key>
 		<integer>-20</integer>
-		<key>@MMK_R_x</key>
+		<key>public.kern2.x</key>
 		<integer>-15</integer>
 	</dict>
-	<key>@MMK_L_o</key>
+	<key>public.kern1.o</key>
 	<dict>
-		<key>@MMK_R_A</key>
+		<key>public.kern2.A</key>
 		<integer>-10</integer>
-		<key>@MMK_R_H</key>
+		<key>public.kern2.H</key>
 		<integer>-10</integer>
-		<key>@MMK_R_T</key>
+		<key>public.kern2.T</key>
 		<integer>-40</integer>
-		<key>@MMK_R_V</key>
+		<key>public.kern2.V</key>
 		<integer>-40</integer>
-		<key>@MMK_R_Y</key>
+		<key>public.kern2.Y</key>
 		<integer>-60</integer>
-		<key>@MMK_R_a</key>
+		<key>public.kern2.a</key>
 		<integer>-10</integer>
-		<key>@MMK_R_l</key>
+		<key>public.kern2.l</key>
 		<integer>-10</integer>
-		<key>@MMK_R_n</key>
+		<key>public.kern2.n</key>
 		<integer>-10</integer>
-		<key>@MMK_R_v</key>
+		<key>public.kern2.v</key>
 		<integer>-15</integer>
-		<key>@MMK_R_x</key>
+		<key>public.kern2.x</key>
 		<integer>-25</integer>
 	</dict>
-	<key>@MMK_L_q</key>
+	<key>public.kern1.q</key>
 	<dict>
-		<key>@MMK_R_T</key>
+		<key>public.kern2.T</key>
 		<integer>-50</integer>
-		<key>@MMK_R_V</key>
+		<key>public.kern2.V</key>
 		<integer>-20</integer>
-		<key>@MMK_R_Y</key>
+		<key>public.kern2.Y</key>
 		<integer>-40</integer>
-		<key>@MMK_R_a</key>
+		<key>public.kern2.a</key>
 		<integer>-10</integer>
-		<key>@MMK_R_v</key>
+		<key>public.kern2.v</key>
 		<integer>-10</integer>
 	</dict>
-	<key>@MMK_L_r</key>
+	<key>public.kern1.r</key>
 	<dict>
-		<key>@MMK_R_A</key>
+		<key>public.kern2.A</key>
 		<integer>-20</integer>
-		<key>@MMK_R_T</key>
+		<key>public.kern2.T</key>
 		<integer>-40</integer>
-		<key>@MMK_R_V</key>
+		<key>public.kern2.V</key>
 		<integer>-10</integer>
-		<key>@MMK_R_X</key>
+		<key>public.kern2.X</key>
 		<integer>-40</integer>
-		<key>@MMK_R_Y</key>
+		<key>public.kern2.Y</key>
 		<integer>-30</integer>
-		<key>@MMK_R_a</key>
+		<key>public.kern2.a</key>
 		<integer>-20</integer>
-		<key>@MMK_R_low</key>
+		<key>public.kern2.low</key>
 		<integer>-80</integer>
-		<key>@MMK_R_z</key>
+		<key>public.kern2.z</key>
 		<integer>-10</integer>
 	</dict>
-	<key>@MMK_L_s</key>
+	<key>public.kern1.s</key>
 	<dict>
-		<key>@MMK_R_T</key>
+		<key>public.kern2.T</key>
 		<integer>-40</integer>
-		<key>@MMK_R_V</key>
+		<key>public.kern2.V</key>
 		<integer>-30</integer>
-		<key>@MMK_R_Y</key>
+		<key>public.kern2.Y</key>
 		<integer>-50</integer>
-		<key>@MMK_R_high</key>
+		<key>public.kern2.high</key>
 		<integer>-40</integer>
-		<key>@MMK_R_v</key>
+		<key>public.kern2.v</key>
 		<integer>-5</integer>
-		<key>@MMK_R_x</key>
+		<key>public.kern2.x</key>
 		<integer>-10</integer>
 	</dict>
-	<key>@MMK_L_t</key>
+	<key>public.kern1.t</key>
 	<dict>
-		<key>@MMK_R_T</key>
+		<key>public.kern2.T</key>
 		<integer>-30</integer>
-		<key>@MMK_R_U</key>
+		<key>public.kern2.U</key>
 		<integer>-10</integer>
-		<key>@MMK_R_V</key>
+		<key>public.kern2.V</key>
 		<integer>-20</integer>
-		<key>@MMK_R_Y</key>
+		<key>public.kern2.Y</key>
 		<integer>-30</integer>
 	</dict>
-	<key>@MMK_L_v</key>
+	<key>public.kern1.v</key>
 	<dict>
-		<key>@MMK_R_A</key>
+		<key>public.kern2.A</key>
 		<integer>-25</integer>
-		<key>@MMK_R_H</key>
+		<key>public.kern2.H</key>
 		<integer>-10</integer>
-		<key>@MMK_R_T</key>
+		<key>public.kern2.T</key>
 		<integer>-40</integer>
-		<key>@MMK_R_V</key>
+		<key>public.kern2.V</key>
 		<integer>-20</integer>
-		<key>@MMK_R_X</key>
+		<key>public.kern2.X</key>
 		<integer>-50</integer>
-		<key>@MMK_R_Y</key>
+		<key>public.kern2.Y</key>
 		<integer>-40</integer>
-		<key>@MMK_R_Z</key>
+		<key>public.kern2.Z</key>
 		<integer>-50</integer>
-		<key>@MMK_R_a</key>
+		<key>public.kern2.a</key>
 		<integer>-20</integer>
-		<key>@MMK_R_o</key>
+		<key>public.kern2.o</key>
 		<integer>-10</integer>
-		<key>@MMK_R_s</key>
+		<key>public.kern2.s</key>
 		<integer>-5</integer>
-		<key>@MMK_R_x</key>
+		<key>public.kern2.x</key>
 		<integer>-10</integer>
 	</dict>
-	<key>@MMK_L_x</key>
+	<key>public.kern1.x</key>
 	<dict>
-		<key>@MMK_R_H</key>
+		<key>public.kern2.H</key>
 		<integer>-10</integer>
-		<key>@MMK_R_O</key>
+		<key>public.kern2.O</key>
 		<integer>-20</integer>
-		<key>@MMK_R_S</key>
+		<key>public.kern2.S</key>
 		<integer>-20</integer>
-		<key>@MMK_R_T</key>
+		<key>public.kern2.T</key>
 		<integer>-40</integer>
-		<key>@MMK_R_U</key>
+		<key>public.kern2.U</key>
 		<integer>-20</integer>
-		<key>@MMK_R_V</key>
+		<key>public.kern2.V</key>
 		<integer>-30</integer>
-		<key>@MMK_R_Y</key>
+		<key>public.kern2.Y</key>
 		<integer>-40</integer>
-		<key>@MMK_R_a</key>
+		<key>public.kern2.a</key>
 		<integer>-20</integer>
-		<key>@MMK_R_f</key>
+		<key>public.kern2.f</key>
 		<integer>-20</integer>
-		<key>@MMK_R_l</key>
+		<key>public.kern2.l</key>
 		<integer>-10</integer>
-		<key>@MMK_R_n</key>
+		<key>public.kern2.n</key>
 		<integer>-10</integer>
-		<key>@MMK_R_o</key>
+		<key>public.kern2.o</key>
 		<integer>-25</integer>
-		<key>@MMK_R_s</key>
+		<key>public.kern2.s</key>
 		<integer>-10</integer>
-		<key>@MMK_R_v</key>
+		<key>public.kern2.v</key>
 		<integer>-20</integer>
 	</dict>
-	<key>@MMK_L_z</key>
+	<key>public.kern1.z</key>
 	<dict>
-		<key>@MMK_R_T</key>
+		<key>public.kern2.T</key>
 		<integer>-40</integer>
-		<key>@MMK_R_V</key>
+		<key>public.kern2.V</key>
 		<integer>-30</integer>
-		<key>@MMK_R_Y</key>
+		<key>public.kern2.Y</key>
 		<integer>-40</integer>
 	</dict>
 </dict>
