@@ -36,4 +36,4 @@ Grotesca Reforma also ships as a variable font.
 
 ## License
 
-This project and font software is licensed under the GNU General Public License 3.0, available in the `LICENSE.md` file.
+This project and font software is licensed for personal, academic and non-profit projects. Commercial use of Grotesca Reforma is not allowed.
